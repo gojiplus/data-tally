@@ -294,7 +294,7 @@ def test_refresh_publishes_badge_only_when_complete(tmp_path, monkeypatch):
         "schemaVersion": 1,
         "label": "data downloads",
         "message": "123",
-        "color": "2E7D32",
+        "color": "6A1B9A",
     }
     assert (tmp_path / "reports" / "latest.md").exists()
 
@@ -316,3 +316,22 @@ def test_refresh_keeps_previous_badge_on_failure(tmp_path, monkeypatch, broken):
     assert before[0].read_text() == before[1]
     snapshots = [p for p in (tmp_path / "reports").iterdir() if p.is_dir()]
     assert (snapshots[0] / "summary.md").exists()
+
+
+@pytest.mark.parametrize(
+    "value, text",
+    [
+        (0, "0"),
+        (999, "999"),
+        (1_000, "1.0K"),
+        (9_999, "9.9K"),
+        (121_372, "121K"),
+        (999_999, "999K"),
+        (2_185_140, "2.1M"),
+        (2_199_999, "2.1M"),
+        (12_345_678, "12M"),
+        (3_400_000_000, "3.4B"),
+    ],
+)
+def test_badge_value_is_truncated_never_rounded_up(value, text):
+    assert refresh.compact(value) == text

@@ -9,6 +9,7 @@ inventory covers datasets that list Gaurav Sood as an author.
 
 [View the latest tally](reports/latest.md), or browse the dated snapshots in
 [reports](reports). The badge always represents the latest successful refresh.
+The badge shows a truncated figure (2.1M, 121K); the exact count is in the report.
 
 ## What is counted
 
