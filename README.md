@@ -64,6 +64,11 @@ data-tally-refresh
   Each is stored by its concept record id, which is stable across versions.
 - **Hugging Face:** datasets owned by the listed account.
 
+Discovery trusts the author name a depositor typed. Anyone can deposit a record
+under the same name and it will be added on the next run, so skim the
+"Dataset discovery" section of each report and delete entries that are not
+yours.
+
 Discovery adds entries; it never removes them. It cannot see deaccessioned
 Dataverse datasets, datasets filed under a different spelling of the name, or
 datasets on other Dataverse installations. Add those to `datasets.toml` by hand.
