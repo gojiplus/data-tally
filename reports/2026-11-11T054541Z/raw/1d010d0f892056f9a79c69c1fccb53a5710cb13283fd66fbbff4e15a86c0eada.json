@@ -1,0 +1,8 @@
+{
+  "url": "https://huggingface.co/api/datasets/soodoku/archive-news?expand%5B%5D=downloadsAllTime",
+  "fetched_at": "2026-11-11T05:45:57.293197+00:00",
+  "sha256": "c0bfc7a706070a8b5bc65bf5923aad3e7747ce154761234e28920ac7e2bd4bf1",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Wed, 11 Nov 2026 05:45:57 GMT",
+  "body": "{\"_id\":\"64233fda87c0858c14bc5a93\",\"id\":\"soodoku/archive-news\",\"downloadsAllTime\":354}"
+}

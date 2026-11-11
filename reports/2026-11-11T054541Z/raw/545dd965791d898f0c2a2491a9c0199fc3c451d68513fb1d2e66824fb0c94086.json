@@ -1,0 +1,8 @@
+{
+  "url": "https://huggingface.co/api/datasets/soodoku/pai?expand%5B%5D=downloadsAllTime",
+  "fetched_at": "2026-11-11T05:45:57.457555+00:00",
+  "sha256": "e9535f17f36aa46036fdcd164f358c00b58442548cb4c20c54f638f1a288172d",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Wed, 11 Nov 2026 05:45:57 GMT",
+  "body": "{\"_id\":\"6a9afcabc829e2f3db3efc7f\",\"id\":\"soodoku/pai\",\"downloadsAllTime\":368}"
+}

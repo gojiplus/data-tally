@@ -1,14 +1,14 @@
 # Dataset download tally
 
-**Total: 121,371 downloads** across 97/97 datasets.
+**Total: 121,372 downloads** across 97/97 datasets.
 
-Retrieved 2026-11-11T05:42:47.189603+00:00.
+Retrieved 2026-11-11T05:46:02.665701+00:00.
 
 The sources count differently, so the total adds unlike units. Dataverse counts every file download. Zenodo counts downloads across all versions of a record. Hugging Face counts one download per IP address per 5-minute window. None of these are unique users.
 
 | Source | Downloads observed | Datasets counted |
 | --- | ---: | ---: |
-| dataverse | 118,801 | 89/89 |
+| dataverse | 118,802 | 89/89 |
 | zenodo | 1,550 | 5/5 |
 | huggingface | 1,020 | 3/3 |
 
@@ -17,7 +17,7 @@ The sources count differently, so the total adds unlike units. Dataverse counts 
 | [Geographic Information on Designated Media Markets](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FIVXEHT) | dataverse | 28,468 | Deaccessioned; historical downloads included. |
 | [DIME Race (1980--2014)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FM5K7VR) | dataverse | 10,914 |  |
 | [Socio-Economic and Caste Census 2011](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FLIIBNB) | dataverse | 8,922 |  |
-| [MNREGA R1, R3, R5, and R6 Reports (2007---2023)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZHF9WC) | dataverse | 7,683 |  |
+| [MNREGA R1, R3, R5, and R6 Reports (2007---2023)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZHF9WC) | dataverse | 7,684 |  |
 | [Replication Data for: The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FW1YJZQ) | dataverse | 7,398 |  |
 | [Parsed DMOZ data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOMV93V) | dataverse | 6,170 |  |
 | [Closed Caption News Transcripts from the Internet Archive (2014--2023)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOAJJHI) | dataverse | 3,750 |  |
@@ -114,97 +114,4 @@ The sources count differently, so the total adds unlike units. Dataverse counts 
 
 ## Dataset discovery
 
-Found 93 new datasets.
-- dataverse/doi:10.7910/DVN/0IUQO1
-- dataverse/doi:10.7910/DVN/0KTFDM
-- dataverse/doi:10.7910/DVN/2JXAYZ
-- dataverse/doi:10.7910/DVN/3N7TDZ
-- dataverse/doi:10.7910/DVN/4JXJWI
-- dataverse/doi:10.7910/DVN/4W9ZN3
-- dataverse/doi:10.7910/DVN/6YPB5C
-- dataverse/doi:10.7910/DVN/7HWPYZ
-- dataverse/doi:10.7910/DVN/9KX752
-- dataverse/doi:10.7910/DVN/BFHA9V
-- dataverse/doi:10.7910/DVN/BI4KZS
-- dataverse/doi:10.7910/DVN/BP2JXU
-- dataverse/doi:10.7910/DVN/BPS1OK
-- dataverse/doi:10.7910/DVN/CAVZMQ
-- dataverse/doi:10.7910/DVN/CLMQ8E
-- dataverse/doi:10.7910/DVN/CZBHQO
-- dataverse/doi:10.7910/DVN/D7G1LO
-- dataverse/doi:10.7910/DVN/DXSNFA
-- dataverse/doi:10.7910/DVN/E0ZFAJ
-- dataverse/doi:10.7910/DVN/FIFZEX
-- dataverse/doi:10.7910/DVN/FRUKWS
-- dataverse/doi:10.7910/DVN/FUC2AH
-- dataverse/doi:10.7910/DVN/GFSVY8
-- dataverse/doi:10.7910/DVN/GJFDNC
-- dataverse/doi:10.7910/DVN/GMNP04
-- dataverse/doi:10.7910/DVN/GTSTEY
-- dataverse/doi:10.7910/DVN/GYPDF3
-- dataverse/doi:10.7910/DVN/HD5VHI
-- dataverse/doi:10.7910/DVN/HUGWOM
-- dataverse/doi:10.7910/DVN/HZHVCU
-- dataverse/doi:10.7910/DVN/I4ZGIN
-- dataverse/doi:10.7910/DVN/ILBFRH
-- dataverse/doi:10.7910/DVN/ISDPJU
-- dataverse/doi:10.7910/DVN/J7DU18
-- dataverse/doi:10.7910/DVN/JKOH3E
-- dataverse/doi:10.7910/DVN/JWJ11C
-- dataverse/doi:10.7910/DVN/KA3TS8
-- dataverse/doi:10.7910/DVN/KAIZ1B
-- dataverse/doi:10.7910/DVN/KF1LAK
-- dataverse/doi:10.7910/DVN/KNN0GL
-- dataverse/doi:10.7910/DVN/L3HN0K
-- dataverse/doi:10.7910/DVN/LAYKAA
-- dataverse/doi:10.7910/DVN/LIIBNB
-- dataverse/doi:10.7910/DVN/M5K7VR
-- dataverse/doi:10.7910/DVN/MNDSVD
-- dataverse/doi:10.7910/DVN/MQPPNC
-- dataverse/doi:10.7910/DVN/MUEGDT
-- dataverse/doi:10.7910/DVN/NEFUBN
-- dataverse/doi:10.7910/DVN/NKHAKM
-- dataverse/doi:10.7910/DVN/NRY5OP
-- dataverse/doi:10.7910/DVN/NTN9EP
-- dataverse/doi:10.7910/DVN/NZPPJM
-- dataverse/doi:10.7910/DVN/O4SNFL
-- dataverse/doi:10.7910/DVN/O9NKCF
-- dataverse/doi:10.7910/DVN/OAJJHI
-- dataverse/doi:10.7910/DVN/OG47IV
-- dataverse/doi:10.7910/DVN/OMV93V
-- dataverse/doi:10.7910/DVN/OTJMYQ
-- dataverse/doi:10.7910/DVN/PQZVCO
-- dataverse/doi:10.7910/DVN/Q2KIES
-- dataverse/doi:10.7910/DVN/QLRNAL
-- dataverse/doi:10.7910/DVN/QLYIQL
-- dataverse/doi:10.7910/DVN/RMZOEN
-- dataverse/doi:10.7910/DVN/SBF7DP
-- dataverse/doi:10.7910/DVN/SMEBXA
-- dataverse/doi:10.7910/DVN/TH0CG8
-- dataverse/doi:10.7910/DVN/TJZUYL
-- dataverse/doi:10.7910/DVN/TTQZRL
-- dataverse/doi:10.7910/DVN/UBIG3F
-- dataverse/doi:10.7910/DVN/UL7NYU
-- dataverse/doi:10.7910/DVN/UPJDE1
-- dataverse/doi:10.7910/DVN/VIV4TS
-- dataverse/doi:10.7910/DVN/VVENE1
-- dataverse/doi:10.7910/DVN/VZ8DB3
-- dataverse/doi:10.7910/DVN/W1YJZQ
-- dataverse/doi:10.7910/DVN/WZGJBM
-- dataverse/doi:10.7910/DVN/XMYGIE
-- dataverse/doi:10.7910/DVN/XUV6G2
-- dataverse/doi:10.7910/DVN/XVT1W2
-- dataverse/doi:10.7910/DVN/YHWCDC
-- dataverse/doi:10.7910/DVN/ZE88E5
-- dataverse/doi:10.7910/DVN/ZHF9WC
-- dataverse/doi:10.7910/DVN/ZNAKK6
-- dataverse/doi:10.7910/DVN/ZXMVTJ
-- dataverse/doi:10.7910/DVN/ZXTQ7V
-- huggingface/soodoku/archive-news
-- huggingface/soodoku/local-reservations
-- huggingface/soodoku/pai
-- zenodo/21926099
-- zenodo/21943908
-- zenodo/22772026
-- zenodo/22852473
-- zenodo/23092131
+Found 0 new datasets.

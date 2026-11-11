@@ -1,0 +1,8 @@
+{
+  "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FLIIBNB",
+  "fetched_at": "2026-11-11T05:45:51.413989+00:00",
+  "sha256": "bc0fb8bed87b3845cbc01fffd30a3eeef5179b8122cb9c8888a57f109001b2e7",
+  "content_type": "application/json;charset=UTF-8",
+  "server_date": "Wed, 11 Nov 2026 05:45:51 GMT",
+  "body": "{\"id\":3180728,\"downloadCount\":8922}"
+}
