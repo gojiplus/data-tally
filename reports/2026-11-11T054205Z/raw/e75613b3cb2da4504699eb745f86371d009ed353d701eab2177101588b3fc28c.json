@@ -1,0 +1,8 @@
+{
+  "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FLAYKAA",
+  "fetched_at": "2026-11-11T05:42:23.657973+00:00",
+  "sha256": "aeb5a3fbdd5e9ec12860e8d3904f542530a0558aa5ec0ab6656734783a23b204",
+  "content_type": "application/json;charset=UTF-8",
+  "server_date": "Wed, 11 Nov 2026 05:42:23 GMT",
+  "body": "{\"id\":8138675,\"downloadCount\":646}"
+}

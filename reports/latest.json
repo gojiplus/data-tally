@@ -1,0 +1,1861 @@
+{
+  "started_at": "2026-11-11T05:42:10.294982+00:00",
+  "finished_at": "2026-11-11T05:42:47.189603+00:00",
+  "complete": true,
+  "total_downloads": 121371,
+  "observed_downloads": 121371,
+  "subtotals": {
+    "dataverse": {
+      "datasets": 89,
+      "counted": 89,
+      "complete": true,
+      "observed_downloads": 118801
+    },
+    "zenodo": {
+      "datasets": 5,
+      "counted": 5,
+      "complete": true,
+      "observed_downloads": 1550
+    },
+    "huggingface": {
+      "datasets": 3,
+      "counted": 3,
+      "complete": true,
+      "observed_downloads": 1020
+    }
+  },
+  "datasets": [
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/0IUQO1",
+      "title": "Kerala Local Election Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F0IUQO1",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F0IUQO1",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 412,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:10.552379+00:00",
+      "response_sha256": "7d64c74130c22c4a6fbf0df6b802834fc0377b31dbd0f5f73fedddebf171a844"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/0KTFDM",
+      "title": "VA Spending Data (2013--2017)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F0KTFDM",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F0KTFDM",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 846,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:10.817152+00:00",
+      "response_sha256": "c284cf4390ff3bae412cda7332043415d593c4ccce79c861731dec9393d32e79"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/28949",
+      "title": "Clean Names for CF-Scores",
+      "note": "Deaccessioned; historical downloads included.",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F28949",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F28949",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 79,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:11.082265+00:00",
+      "response_sha256": "0db67d5a511e0378e77de02462a5bd3f530f1e8c0d8c8a9a426c27abf614404e"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/28957",
+      "title": "Zip codes for Database on Ideology, Money in Politics, and Elections",
+      "note": "Deaccessioned; historical downloads included.",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F28957",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F28957",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 73,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:11.340356+00:00",
+      "response_sha256": "24efc073a7980cc9ccbc6a90a0efa6b44a0bc80653f15e228f1866349c0d9eb5"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/2JXAYZ",
+      "title": "Online appendix for: \"Measuring Shares of Salient and Stereotypical Groups\"",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F2JXAYZ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F2JXAYZ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 43,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:11.592501+00:00",
+      "response_sha256": "ceba2ecdeca0485f0c06ae93b557dc65f512b3c9bb0c5652010f4bc01df1d0df"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/3N7TDZ",
+      "title": "Blacklight Data on YG, .gov Domains",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F3N7TDZ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F3N7TDZ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 16,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:11.865421+00:00",
+      "response_sha256": "dc07fd8b6bab393a863ec6b087c671b3381e5c799fc82f6757f94bd8bb6a5aa2"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/4JXJWI",
+      "title": "Replication Data for: Motivated Responding in Studies of Factual Learning",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F4JXJWI",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F4JXJWI",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 1255,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:12.127401+00:00",
+      "response_sha256": "b0bc53b74e9552cb0da320d1168300bfb7884ee614b1c0b5bc3a6a2940cdcdfa"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/4W9ZN3",
+      "title": "KY Spending Data (2007--2017)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F4W9ZN3",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F4W9ZN3",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 38,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:12.390436+00:00",
+      "response_sha256": "38632066a3db3b3a85c72d6f9b253877eb4fe9933aa08907951051de6e3ac47a"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/6YPB5C",
+      "title": "Gram Panchayat Election Data For Rajasthan (2020/2021/2022)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F6YPB5C",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F6YPB5C",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 240,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:12.646978+00:00",
+      "response_sha256": "79a4a71edace97e97f3cee83f62472a4c25bb31b4c78427ebad6166ff1441523"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/7HWPYZ",
+      "title": "Social Proof is in the Pudding: The (Non)-Impact of Social Proof on Software Downloads",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F7HWPYZ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F7HWPYZ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 250,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:12.915664+00:00",
+      "response_sha256": "912139ed2124fabe82100a8d1484422b9627251299c06131e306969825c9a5a6"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/9KX752",
+      "title": "OH Voter Registration Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F9KX752",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F9KX752",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 170,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:13.207826+00:00",
+      "response_sha256": "ea49b94ec1fa8a6f20130b8fa110c63920d848ea3759687cd0426325d3848760"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/BFHA9V",
+      "title": "MA Spending Data 2010--2015",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FBFHA9V",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBFHA9V",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 608,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:13.552811+00:00",
+      "response_sha256": "5567e70e1378c206bff80b2036ecab0fe38e9a850f58bba1b3988a16153fe803"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/BI4KZS",
+      "title": "Bihar Land Records (2022)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FBI4KZS",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBI4KZS",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 71,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:13.806998+00:00",
+      "response_sha256": "6490101602a47d6658f9b35ae877f7e93d7d5f75e93d471b3b0b866d15a0f5ef"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/BP2JXU",
+      "title": "Vanderbilt TV News Abstracts",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FBP2JXU",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBP2JXU",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 133,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:14.147157+00:00",
+      "response_sha256": "abea17678c5e4498ff9848bb5eada41011fc557c9c40f2cb8664c5e31fd4fd5e"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/BPS1OK",
+      "title": "Content Categories for Unique Domains in comScore browsing data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FBPS1OK",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBPS1OK",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 91,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:14.485179+00:00",
+      "response_sha256": "238033ed23e8c24ce228d1cf51d1893dd6aa7867df82a5719f4d1a3883839e16"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/CAVZMQ",
+      "title": "Bihar Ration Card Data 2022",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FCAVZMQ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCAVZMQ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 19,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:14.759519+00:00",
+      "response_sha256": "94b47026183e9b75e62eb91f9abfc19c04a07764768731d7cf41ef4d53b2d8fd"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/CLMQ8E",
+      "title": "Replication Data for: The Parties in our Heads: Misperceptions About Party Composition and Their Consequences",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FCLMQ8E",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCLMQ8E",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 3238,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:15.154468+00:00",
+      "response_sha256": "8835f027c045ddf750cab589e0a4ec49aebe3e72705832fdb33ff38cd566bb09"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/CZBHQO",
+      "title": "Women Count",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FCZBHQO",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCZBHQO",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 73,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:15.533692+00:00",
+      "response_sha256": "8b5c0d8a4013a3516341b701fbdf68ca78a5263582575ffef737af1e34be3e69"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/D7G1LO",
+      "title": "Replication Data for: Deliberative Distortions? Homogenization, Polarization, and Domination in Small Group Deliberations",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FD7G1LO",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FD7G1LO",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 796,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:15.800063+00:00",
+      "response_sha256": "0a0710d4a9057763c0ad11d723ec6ac255ca06fbcf5f4a5332cbfdf32156a959"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/DXSNFA",
+      "title": "Category of content of unique domains in comScore data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FDXSNFA",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FDXSNFA",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 385,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:16.067518+00:00",
+      "response_sha256": "2058a4c85c39820d9acb8a59f240476d192636ecf6654d52be92f593fb5d9c1f"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/E0ZFAJ",
+      "title": "Connecticut Spending Data 2010--2017",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FE0ZFAJ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FE0ZFAJ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 811,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:16.344803+00:00",
+      "response_sha256": "95a668c397e8e1eac524b32536b8d380f8c0fbc91d8992c51ce88f8f496e3fd8"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/FIFZEX",
+      "title": "Transaction Level Ration Data from Rajasthan (2021)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FFIFZEX",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFIFZEX",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 441,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:16.691379+00:00",
+      "response_sha256": "d52edddd14e935e895c890fea5d453b1bd792d65ba63f520ee9794b8feddb79d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/FRUKWS",
+      "title": "Panchayat Advancement Index (2022--2024)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FFRUKWS",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFRUKWS",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 44,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:16.955319+00:00",
+      "response_sha256": "5dbcf838f096f41e472bf035800fa450470a9ffe1cf8f6953dc5671e21b83ad0"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/FUC2AH",
+      "title": "Replication Data for: By the Numbers: Toward More Precise Numerical Summaries of Results",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FFUC2AH",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFUC2AH",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 145,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:17.319824+00:00",
+      "response_sha256": "c81e70137b79d099141837811688fae85376f8da18d70e8dfe0cc0c53ee2dd1c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/GFSVY8",
+      "title": "Spousal Age Gap Replication Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGFSVY8",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGFSVY8",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 314,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:17.632194+00:00",
+      "response_sha256": "908dc9e428c4af561ad736b1d549f2b3cd10b82af495fb876becf162867096fe"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/GJFDNC",
+      "title": "Cable TV Penetration in Designated Market Areas (DMAs) 1983--2010; TVHH and CAHH for 1972--1990",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGJFDNC",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGJFDNC",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 657,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:17.907809+00:00",
+      "response_sha256": "7dc9720551635e050ebbfdb3f2d2600bdb2196a73460813a7393ba08cc471fd6"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/GMNP04",
+      "title": "Virustotal Data (2023 July) for 64k Domains in YG File",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGMNP04",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGMNP04",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 23,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:18.250900+00:00",
+      "response_sha256": "5fe7bbd9f63349180ed5bbfa670eb1b0bcffad7d0c85fa8df11c35e7d8307cfe"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/GTSTEY",
+      "title": "Warren\u2019s TV and Cable Factbook data (1997--2002)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGTSTEY",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGTSTEY",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 279,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:18.514031+00:00",
+      "response_sha256": "0edb8ac732c728ffd0eb4411847e5b55836aac739b30ffeef55fbb19685b53e8"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/GYPDF3",
+      "title": "Warren's TV and Cable Factbook --- TV Stations (1996)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGYPDF3",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGYPDF3",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 11,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:18.868519+00:00",
+      "response_sha256": "e16a79475f9c9a685fe554a643d4a87d0834c12af3cd001747312ac0e8fb3c91"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/HD5VHI",
+      "title": "AAUW Data 97th--116th Congress",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FHD5VHI",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FHD5VHI",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 57,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:19.206041+00:00",
+      "response_sha256": "0cfab80536749be7ce7e7c5cdfaf83b6632b979016da997f3a9b1373b7bc8fa3"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/HUGWOM",
+      "title": "NY Voter List 2020",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FHUGWOM",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FHUGWOM",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 48,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:19.468830+00:00",
+      "response_sha256": "94616c8bc7b1da24b470a0c79972525e91fcff261de874df242d1b35e3575dcd"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/HZHVCU",
+      "title": "Replication Data for: Guessing and Forgetting: A Latent Class Model for Measuring Learning*",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FHZHVCU",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FHZHVCU",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 120,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:19.879988+00:00",
+      "response_sha256": "44d8481cfe2f048152f50d65bd61df8d911698d1faf1d2818ec3ece50ea16d38"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/I4ZGIN",
+      "title": "President, Governor and Senator Approval 2006--2011",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FI4ZGIN",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FI4ZGIN",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 160,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:20.144456+00:00",
+      "response_sha256": "b1b3bfb203cabf2416aa8da67f14868e45cdaade46a9defd3076dd07b853ac9d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ILBFRH",
+      "title": "Internet Archive Major News Outlets Web Homepages 2007-2011",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FILBFRH",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FILBFRH",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 28,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:20.415695+00:00",
+      "response_sha256": "c76cf918191f020876c5c40cc270f3114271fe3b59877eab504397dbc570e188"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ISDPJU",
+      "title": "CNN Transcripts 2000--2025",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FISDPJU",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FISDPJU",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 880,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:20.763231+00:00",
+      "response_sha256": "f8b4c3a369dfb7ee3964efad96691298042b32ed23789052d3fc8322f8f3398a"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/IVXEHT",
+      "title": "Geographic Information on Designated Media Markets",
+      "note": "Deaccessioned; historical downloads included.",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FIVXEHT",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FIVXEHT",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 28468,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:21.045439+00:00",
+      "response_sha256": "5af50ea5956aa4b9274eeaea590dea4a755695dc5895830259c7ac9e231a425b"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/J7DU18",
+      "title": "NV Voter List Data (2020)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FJ7DU18",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FJ7DU18",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 70,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:21.382076+00:00",
+      "response_sha256": "1bffad7019f84b204a70313831c0133930e0c34a2ee3bb42541056c40814a2cc"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/JKOH3E",
+      "title": "UK Media and MP Tweets",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FJKOH3E",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FJKOH3E",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 61,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:21.635671+00:00",
+      "response_sha256": "feddf7870d599b0625b4dd98d0210c177b9da6f41903ee0aadb6b4a66caedb2a"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/JWJ11C",
+      "title": "Internet Archive News Homepage URL data (2012--2016)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FJWJ11C",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FJWJ11C",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 21,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:21.901021+00:00",
+      "response_sha256": "29120bd274e4ecdf129ceb701335eaa3ab89939287f6036d40e8c40d7c1f54b5"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/KA3TS8",
+      "title": "California Public Salaries Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKA3TS8",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKA3TS8",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 278,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:22.161642+00:00",
+      "response_sha256": "1982a3f3a7ae8aa84946d3e87a8f368c7ab1724391ed6b05726e8270a84eb59c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/KAIZ1B",
+      "title": "MNREGA Social Audit",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKAIZ1B",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKAIZ1B",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 196,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:22.452180+00:00",
+      "response_sha256": "9ba8b18cb27b49cf33eb7428126edcec87fdacef5e1041773a35c332d9736c5d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/KF1LAK",
+      "title": "Replication Data for: The Micro Task Market for Lemons: Data Quality on Amazon\u2019s Mechanical Turk",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKF1LAK",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKF1LAK",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 1223,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:22.861504+00:00",
+      "response_sha256": "d6d1007ac1a3af4e9e39e0a271a531c71540e5bf70a39040513b21cfecc1c677"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/KNN0GL",
+      "title": "Replication Data for: A Measurement Gap? Effect of Survey Instrument and Scoring on the Partisan Knowledge Gap",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKNN0GL",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKNN0GL",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 42,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:23.110240+00:00",
+      "response_sha256": "f61b6a4d293fa2893f65962450f689216a2ec8d83be17c97ab7116a3fe37811d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/L3HN0K",
+      "title": "Street Smart: Learning from Randomly Sampled Images from Google Street View",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FL3HN0K",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FL3HN0K",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 105,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:23.385120+00:00",
+      "response_sha256": "a1c02b2680099a97c7d495809eaf4b1ae1137b565f00bc56ded618325245a121"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/LAYKAA",
+      "title": "GSS PSU Def. 1970, 1980, 1990, and 2000",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FLAYKAA",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FLAYKAA",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 646,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:23.657973+00:00",
+      "response_sha256": "aeb5a3fbdd5e9ec12860e8d3904f542530a0558aa5ec0ab6656734783a23b204"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/LIIBNB",
+      "title": "Socio-Economic and Caste Census 2011",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FLIIBNB",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FLIIBNB",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 8922,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:24.011965+00:00",
+      "response_sha256": "bc0fb8bed87b3845cbc01fffd30a3eeef5179b8122cb9c8888a57f109001b2e7"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/M5K7VR",
+      "title": "DIME Race (1980--2014)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FM5K7VR",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FM5K7VR",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 10914,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:24.271140+00:00",
+      "response_sha256": "6014550b84c2c415a87435818781931ad87db6e31df2aa672fadfbd244420209"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/MNDSVD",
+      "title": "PA Voter File Data (2020 + 2024)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FMNDSVD",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FMNDSVD",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 3157,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:24.634767+00:00",
+      "response_sha256": "79e83367555fe7553492e6a21022117c2714aa1236b9237f0e7d36a35374b42b"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/MQPPNC",
+      "title": "Kerala English Electoral PDFs Google Vision OCR Output (Indian Electoral Rolls)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FMQPPNC",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FMQPPNC",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 9,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:24.959191+00:00",
+      "response_sha256": "8723cbea07dbf1163ee2cb5bd5bca53444e5c01383a3c0d1409c09e71d8d71f2"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/MUEGDT",
+      "title": "Parsed Indian Electoral Rolls",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FMUEGDT",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FMUEGDT",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 3317,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:25.217862+00:00",
+      "response_sha256": "4af5806835e3dcbcbac237cba25fac62c6cccefb1918053d93cad0058ed10111"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ND1TCV",
+      "title": "NBC Transcripts",
+      "note": "Deaccessioned; historical downloads included.",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FND1TCV",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FND1TCV",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 34,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:25.576084+00:00",
+      "response_sha256": "eee587977711c8d00e0d7c7973e0455fbf9c4a1adbbfcdaf753f4dd27aa3fbfd"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/NEFUBN",
+      "title": "NC Voter Registration Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNEFUBN",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNEFUBN",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 28,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:25.846056+00:00",
+      "response_sha256": "20bff571b2da4033dad74e577c6befbac58496a6741d1b617510f794b3fe1b4c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/NKHAKM",
+      "title": ".gov URLs from common crawl",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNKHAKM",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNKHAKM",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 2069,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:26.214072+00:00",
+      "response_sha256": "1a38884be81fb294b3c7e31128677e486e9eed99b6dfcbfb372a179989c5b7bc"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/NRY5OP",
+      "title": "Digital Television Coverage by Postcode in the UK",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNRY5OP",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNRY5OP",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 82,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:26.549132+00:00",
+      "response_sha256": "778654c252d50ae37f796694203c4186764f5d7597e5c2e7183f7861c1b4a159"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/NTN9EP",
+      "title": "HIBP Data on Emails in the Florida Voter Registration Database (2022)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNTN9EP",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNTN9EP",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 4,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:26.806074+00:00",
+      "response_sha256": "708530fb8f4f34263c1e960d4753b4aaab1ee19b4055ddfe215d6aaddc384e8c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/NZPPJM",
+      "title": "Congressional Biographies",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNZPPJM",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNZPPJM",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 123,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:27.154090+00:00",
+      "response_sha256": "04ed76d1d8975c8dd97735929d6f7b03d5afe7b1dd496e448415370fcaf17521"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/O4SNFL",
+      "title": "WA Voter File Data (2017--2022)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FO4SNFL",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FO4SNFL",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 267,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:27.579635+00:00",
+      "response_sha256": "ccb4191ed84e29579c4db44ba5ab868122e8e7b4ebf8b28e0da8b7fea4d79ea3"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/O9NKCF",
+      "title": "LaCour Media Ideology Replication Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FO9NKCF",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FO9NKCF",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 74,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:27.919376+00:00",
+      "response_sha256": "a46cc0300318cddbf7a47ccc898678ac74fafa402d5ef0118a680675e18a5020"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/OAJJHI",
+      "title": "Closed Caption News Transcripts from the Internet Archive (2014--2023)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FOAJJHI",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOAJJHI",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 3750,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:28.202244+00:00",
+      "response_sha256": "c705fda480fd1e484e4e294ed3d8e6cff8912256d4c823493b753c7002db514c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/OG47IV",
+      "title": "Indian Electoral Roll PDF Corpus",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FOG47IV",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOG47IV",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 525,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:28.465502+00:00",
+      "response_sha256": "021eef7a98dd60bc467832080a174395b031a6fba10043bb9444c0958fb98c8c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/OMV93V",
+      "title": "Parsed DMOZ data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FOMV93V",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOMV93V",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 6170,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:28.907491+00:00",
+      "response_sha256": "48dd8285c7fdc919a8cb23bc1fd6d3c5c1937b4a051f03696a43c76efe875a40"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/OTJMYQ",
+      "title": "Top 10 News",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FOTJMYQ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOTJMYQ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 158,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:29.251675+00:00",
+      "response_sha256": "7932cec869f065180ccd0fea4830e75d0d58eec87883701a1138432e23e5b004"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/PQZVCO",
+      "title": "PRI Seat Reservation Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FPQZVCO",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPQZVCO",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 27,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:29.515633+00:00",
+      "response_sha256": "d61b50cfd18ef641eb97e5e5bb69dbb1426fafd3d4d8a631465fb87de8a0b146"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/Q2KIES",
+      "title": "Fox News Transcripts (2003--2025)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FQ2KIES",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQ2KIES",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 703,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:29.853105+00:00",
+      "response_sha256": "7c194ad6b894a4e44a051f86c06f8b6e37e5b3b7bd86aa9fc467856437329d5d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/QLRNAL",
+      "title": "model files for \"pranaam: predict religion based on name\"",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FQLRNAL",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQLRNAL",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 2793,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:30.200484+00:00",
+      "response_sha256": "4fbb064e56273db69ce273fc9e9723830fc2dc1c7babe2e347f84ab296ba41bc"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/QLYIQL",
+      "title": "CQ 1990 Scans for Newspaper, TV, and Cable in the District for Alabama---Kentucky ",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FQLYIQL",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQLYIQL",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 1509,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:30.479443+00:00",
+      "response_sha256": "bc7ad44a6e339c1ee7a191321d391a2487dffd52fd8f107a8f0d99fee5055fb2"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/RMZOEN",
+      "title": "Maxmind IP Geolocation Archival Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FRMZOEN",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FRMZOEN",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 315,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:30.822326+00:00",
+      "response_sha256": "ad2c94939a860614c5e582b8174393652830137ff25f70bf2f5c64e2e692137a"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/SBF7DP",
+      "title": "Rajasthan GP Delimitation",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FSBF7DP",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSBF7DP",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 262,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:31.127767+00:00",
+      "response_sha256": "451c6a9f27b1e260f1a2ef567db8d3702f046db701bf1a95b4553511fa0b976c"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/SMEBXA",
+      "title": "Michigan Spending Data (2011--2017)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FSMEBXA",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSMEBXA",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 87,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:31.439021+00:00",
+      "response_sha256": "0030a754caf764a01473eed0a93701d2959dc140f5941dea1b5cb5adcf4fd668"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/TH0CG8",
+      "title": "AZ Spending Data 2009--2016",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FTH0CG8",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTH0CG8",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 105,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:31.774504+00:00",
+      "response_sha256": "b67c421e1264f6e4a97e12ab348950c5a7f31ee2b62652e8c33c6425c44c593a"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/TJZUYL",
+      "title": "ClinicalTrials.Gov CSV (from XML)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FTJZUYL",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTJZUYL",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 335,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:32.036232+00:00",
+      "response_sha256": "03fe52debcdd001d90a4bf3b077c3e88cb05b456a382ae530485c7d9d97ba20f"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/TTQZRL",
+      "title": "Federal Spending",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FTTQZRL",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTTQZRL",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 332,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:32.398969+00:00",
+      "response_sha256": "305a1df69147881d83fcf2c9518add3ff7f23fce229d6308c25ff8804573c577"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/UBIG3F",
+      "title": "Florida Voter Registration Data (2017 and 2022)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FUBIG3F",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FUBIG3F",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 1131,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:32.684925+00:00",
+      "response_sha256": "b10fc5cb2672a46193cd89f5e311ea3995aa56a9702fa6d1236d19425a06b410"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/UL7NYU",
+      "title": "Ookla Netindex Data on Internet Speed",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FUL7NYU",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FUL7NYU",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 956,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:33.078693+00:00",
+      "response_sha256": "ddb1c0606b3a94e60336915914dcbeafe6517c1e00a26dde24ea815935e43ab4"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/UPJDE1",
+      "title": "MSNBC Transcripts: 2003--2022",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FUPJDE1",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FUPJDE1",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 475,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:33.360102+00:00",
+      "response_sha256": "6b3121203e010603b741313ad2d2e1e2922e8c8c659fb5b923d7754d8a177745"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/VIV4TS",
+      "title": "YouGov Pulse Data for 1200 people for June 2022",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FVIV4TS",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVIV4TS",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 291,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:33.623594+00:00",
+      "response_sha256": "2390dce1254235feb6715f94957040302f3851cac25a13ecf4a42b3476026afd"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/VVENE1",
+      "title": "India Real Estate Listing Data 2026",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FVVENE1",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVVENE1",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 29,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:33.997343+00:00",
+      "response_sha256": "527bbb80ebba551d456cc5746efa10119c776466106ba5f876e3c11841150e65"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/VZ8DB3",
+      "title": "Not News: Provision of Apolitical News in British News Media",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FVZ8DB3",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVZ8DB3",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 89,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:34.262103+00:00",
+      "response_sha256": "885145d194117d74abdbaf6fc88c0592ba318d0df65fa722f78b56449805a60b"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/W1YJZQ",
+      "title": "Replication Data for: The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FW1YJZQ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FW1YJZQ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 7398,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:34.704047+00:00",
+      "response_sha256": "44e04207c2ddb479c704780afb3539d40d710f4eb177b655be480f8c71fad7a9"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/WZGJBM",
+      "title": "naampy",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FWZGJBM",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FWZGJBM",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 3725,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:35.025650+00:00",
+      "response_sha256": "780ba2a7a155dbd8b7bcdedd656b2f6b29b4a978f971c4983ca555dbd574d61d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/XMYGIE",
+      "title": "DC Voter Registration Data 2014",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FXMYGIE",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FXMYGIE",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 64,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:35.296789+00:00",
+      "response_sha256": "0fc44a65da790beb4b1862813792801e8ff782b1c8d0a05d3bfb0b427117a598"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/XUV6G2",
+      "title": "Georgia Voter Registration Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FXUV6G2",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FXUV6G2",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 284,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:35.709081+00:00",
+      "response_sha256": "8e21f38864db77a4c984ad6eb32c1908465c8472d47d8cef01d8709be54a18b3"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/XVT1W2",
+      "title": "Replication Data for: \"Revisiting a Natural Experiment: Do Legislators With Daughters Vote More Liberally on Women\u2019s Issues?\"",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FXVT1W2",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FXVT1W2",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 3021,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:36.020016+00:00",
+      "response_sha256": "55c4fe8aec4a3176d2183bee266d296eebcab71bf534a232fd50bde88683ca36"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/YHWCDC",
+      "title": "Piedomains: Predict the kind of content hosted by a domain using domain name and homepage text",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FYHWCDC",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FYHWCDC",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 1434,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:36.291029+00:00",
+      "response_sha256": "2eb22e446c4b04058c09f0e7820e3dde552be1363e14a2356f2681d58a34e770"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ZE88E5",
+      "title": "Cricket Match Data: Scraped HTML Files from ESPNCricInfo",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZE88E5",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZE88E5",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 23,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:36.583839+00:00",
+      "response_sha256": "12b6ed7e8f028db621db365ac1dcddcd524d379cedc2e9979ffff7147ae03c93"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ZHF9WC",
+      "title": "MNREGA R1, R3, R5, and R6 Reports (2007---2023)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZHF9WC",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZHF9WC",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 7683,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:36.856963+00:00",
+      "response_sha256": "fb4271e98e97f3bcb5d8ab7af5c51987953e4103fdaf9acb2caf72e9ce763271"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ZNAKK6",
+      "title": "Top News: Story URLs and Text from News Feeds of Major National News Sites (2022 to 03/2025)",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZNAKK6",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZNAKK6",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 537,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:37.198636+00:00",
+      "response_sha256": "b3cde1eb734f9aacbc8b369ee3a10ee63a8827c01a7ba6dc608704b8738aeea3"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ZXMVTJ",
+      "title": "Instate: Predict the state from last name",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZXMVTJ",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZXMVTJ",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 300,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:37.540837+00:00",
+      "response_sha256": "e8fe6e7fa863cd5418a08eb7ebfff1c7faa570f6e279f428d6fe7269c1ebd27d"
+    },
+    {
+      "source": "dataverse",
+      "id": "doi:10.7910/DVN/ZXTQ7V",
+      "title": "Shallalist Web Page Data",
+      "note": "",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZXTQ7V",
+      "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZXTQ7V",
+      "coverage": "File downloads, all versions, including before Make Data Count",
+      "downloads": 1326,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:37.800147+00:00",
+      "response_sha256": "cfa8a2dc0cc9093a5d4f48bc46d966ac6505155ad56be2c3b906beea86ecdc45"
+    },
+    {
+      "source": "huggingface",
+      "id": "soodoku/archive-news",
+      "title": "",
+      "note": "",
+      "url": "https://huggingface.co/api/datasets/soodoku/archive-news?expand%5B%5D=downloadsAllTime",
+      "page": "https://huggingface.co/datasets/soodoku/archive-news",
+      "coverage": "All-time downloads; one per IP per 5-minute window",
+      "downloads": 354,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:37.948283+00:00",
+      "response_sha256": "c0bfc7a706070a8b5bc65bf5923aad3e7747ce154761234e28920ac7e2bd4bf1"
+    },
+    {
+      "source": "huggingface",
+      "id": "soodoku/local-reservations",
+      "title": "",
+      "note": "",
+      "url": "https://huggingface.co/api/datasets/soodoku/local-reservations?expand%5B%5D=downloadsAllTime",
+      "page": "https://huggingface.co/datasets/soodoku/local-reservations",
+      "coverage": "All-time downloads; one per IP per 5-minute window",
+      "downloads": 298,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:38.222485+00:00",
+      "response_sha256": "217bc02ac13a833372da029be13eb9b619f6f28f49bfb592182b68d234a442f8"
+    },
+    {
+      "source": "huggingface",
+      "id": "soodoku/pai",
+      "title": "",
+      "note": "",
+      "url": "https://huggingface.co/api/datasets/soodoku/pai?expand%5B%5D=downloadsAllTime",
+      "page": "https://huggingface.co/datasets/soodoku/pai",
+      "coverage": "All-time downloads; one per IP per 5-minute window",
+      "downloads": 368,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:38.369277+00:00",
+      "response_sha256": "e9535f17f36aa46036fdcd164f358c00b58442548cb4c20c54f638f1a288172d"
+    },
+    {
+      "source": "zenodo",
+      "id": "21926099",
+      "title": "Stata command-to-package index: a machine-readable mapping from the distribution manifests of SSC, the Stata Journal and the STB",
+      "note": "",
+      "url": "https://zenodo.org/api/records/21926099",
+      "page": "https://zenodo.org/records/21926099",
+      "coverage": "Downloads across all versions",
+      "downloads": 135,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:40.273987+00:00",
+      "response_sha256": "546b4bbda43db00940e4112298a05c152acea06fa6ed97120dbc47f6d8bdea34"
+    },
+    {
+      "source": "zenodo",
+      "id": "21943908",
+      "title": "Validated use: per-package counts of software loaded by social science replication code",
+      "note": "",
+      "url": "https://zenodo.org/api/records/21943908",
+      "page": "https://zenodo.org/records/21943908",
+      "coverage": "Downloads across all versions",
+      "downloads": 543,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:41.912007+00:00",
+      "response_sha256": "69fdd10a2880fc0b333aeca1561dc003d38932141aa246ea0ef3791a730bc10b"
+    },
+    {
+      "source": "zenodo",
+      "id": "22772026",
+      "title": "Gram Sabha participation reports from gpdp.nic.in",
+      "note": "",
+      "url": "https://zenodo.org/api/records/22772026",
+      "page": "https://zenodo.org/records/22772026",
+      "coverage": "Downloads across all versions",
+      "downloads": 321,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:44.224852+00:00",
+      "response_sha256": "4c4e200f522eba576d3fd972a8cc2a79718786844b63f0c919a15f23f51289fa"
+    },
+    {
+      "source": "zenodo",
+      "id": "22852473",
+      "title": "Bihar panchayat election 2016: archived results-form pages and a validated release",
+      "note": "",
+      "url": "https://zenodo.org/api/records/22852473",
+      "page": "https://zenodo.org/records/22852473",
+      "coverage": "Downloads across all versions",
+      "downloads": 443,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:45.934001+00:00",
+      "response_sha256": "5c04ecd56915662ae9b154a9d747c9e57fd79c513cb2bd22d0c8b970873a9243"
+    },
+    {
+      "source": "zenodo",
+      "id": "23092131",
+      "title": "Bihar panchayat elections: seats, reservations, candidates and winners (2011, 2016 and 2021 term)",
+      "note": "",
+      "url": "https://zenodo.org/api/records/23092131",
+      "page": "https://zenodo.org/records/23092131",
+      "coverage": "Downloads across all versions",
+      "downloads": 108,
+      "status": "ok",
+      "fetched_at": "2026-11-11T05:42:47.189325+00:00",
+      "response_sha256": "d0ce96e8a2d068861e9e7c3feacdfa0a78d3b06d4cb19e911e36bdb56d6fea28"
+    }
+  ],
+  "discovery": {
+    "complete": true,
+    "added": [
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/0IUQO1",
+        "title": "Kerala Local Election Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/0KTFDM",
+        "title": "VA Spending Data (2013--2017)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/2JXAYZ",
+        "title": "Online appendix for: \"Measuring Shares of Salient and Stereotypical Groups\"",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/3N7TDZ",
+        "title": "Blacklight Data on YG, .gov Domains",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/4JXJWI",
+        "title": "Replication Data for: Motivated Responding in Studies of Factual Learning",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/4W9ZN3",
+        "title": "KY Spending Data (2007--2017)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/6YPB5C",
+        "title": "Gram Panchayat Election Data For Rajasthan (2020/2021/2022)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/7HWPYZ",
+        "title": "Social Proof is in the Pudding: The (Non)-Impact of Social Proof on Software Downloads",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/9KX752",
+        "title": "OH Voter Registration Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/BFHA9V",
+        "title": "MA Spending Data 2010--2015",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/BI4KZS",
+        "title": "Bihar Land Records (2022)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/BP2JXU",
+        "title": "Vanderbilt TV News Abstracts",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/BPS1OK",
+        "title": "Content Categories for Unique Domains in comScore browsing data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/CAVZMQ",
+        "title": "Bihar Ration Card Data 2022",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/CLMQ8E",
+        "title": "Replication Data for: The Parties in our Heads: Misperceptions About Party Composition and Their Consequences",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/CZBHQO",
+        "title": "Women Count",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/D7G1LO",
+        "title": "Replication Data for: Deliberative Distortions? Homogenization, Polarization, and Domination in Small Group Deliberations",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/DXSNFA",
+        "title": "Category of content of unique domains in comScore data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/E0ZFAJ",
+        "title": "Connecticut Spending Data 2010--2017",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/FIFZEX",
+        "title": "Transaction Level Ration Data from Rajasthan (2021)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/FRUKWS",
+        "title": "Panchayat Advancement Index (2022--2024)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/FUC2AH",
+        "title": "Replication Data for: By the Numbers: Toward More Precise Numerical Summaries of Results",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/GFSVY8",
+        "title": "Spousal Age Gap Replication Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/GJFDNC",
+        "title": "Cable TV Penetration in Designated Market Areas (DMAs) 1983--2010; TVHH and CAHH for 1972--1990",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/GMNP04",
+        "title": "Virustotal Data (2023 July) for 64k Domains in YG File",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/GTSTEY",
+        "title": "Warren\u2019s TV and Cable Factbook data (1997--2002)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/GYPDF3",
+        "title": "Warren's TV and Cable Factbook --- TV Stations (1996)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/HD5VHI",
+        "title": "AAUW Data 97th--116th Congress",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/HUGWOM",
+        "title": "NY Voter List 2020",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/HZHVCU",
+        "title": "Replication Data for: Guessing and Forgetting: A Latent Class Model for Measuring Learning*",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/I4ZGIN",
+        "title": "President, Governor and Senator Approval 2006--2011",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ILBFRH",
+        "title": "Internet Archive Major News Outlets Web Homepages 2007-2011",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ISDPJU",
+        "title": "CNN Transcripts 2000--2025",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/J7DU18",
+        "title": "NV Voter List Data (2020)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/JKOH3E",
+        "title": "UK Media and MP Tweets",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/JWJ11C",
+        "title": "Internet Archive News Homepage URL data (2012--2016)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/KA3TS8",
+        "title": "California Public Salaries Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/KAIZ1B",
+        "title": "MNREGA Social Audit",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/KF1LAK",
+        "title": "Replication Data for: The Micro Task Market for Lemons: Data Quality on Amazon\u2019s Mechanical Turk",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/KNN0GL",
+        "title": "Replication Data for: A Measurement Gap? Effect of Survey Instrument and Scoring on the Partisan Knowledge Gap",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/L3HN0K",
+        "title": "Street Smart: Learning from Randomly Sampled Images from Google Street View",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/LAYKAA",
+        "title": "GSS PSU Def. 1970, 1980, 1990, and 2000",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/LIIBNB",
+        "title": "Socio-Economic and Caste Census 2011",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/M5K7VR",
+        "title": "DIME Race (1980--2014)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/MNDSVD",
+        "title": "PA Voter File Data (2020 + 2024)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/MQPPNC",
+        "title": "Kerala English Electoral PDFs Google Vision OCR Output (Indian Electoral Rolls)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/MUEGDT",
+        "title": "Parsed Indian Electoral Rolls",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/NEFUBN",
+        "title": "NC Voter Registration Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/NKHAKM",
+        "title": ".gov URLs from common crawl",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/NRY5OP",
+        "title": "Digital Television Coverage by Postcode in the UK",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/NTN9EP",
+        "title": "HIBP Data on Emails in the Florida Voter Registration Database (2022)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/NZPPJM",
+        "title": "Congressional Biographies",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/O4SNFL",
+        "title": "WA Voter File Data (2017--2022)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/O9NKCF",
+        "title": "LaCour Media Ideology Replication Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/OAJJHI",
+        "title": "Closed Caption News Transcripts from the Internet Archive (2014--2023)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/OG47IV",
+        "title": "Indian Electoral Roll PDF Corpus",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/OMV93V",
+        "title": "Parsed DMOZ data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/OTJMYQ",
+        "title": "Top 10 News",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/PQZVCO",
+        "title": "PRI Seat Reservation Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/Q2KIES",
+        "title": "Fox News Transcripts (2003--2025)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/QLRNAL",
+        "title": "model files for \"pranaam: predict religion based on name\"",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/QLYIQL",
+        "title": "CQ 1990 Scans for Newspaper, TV, and Cable in the District for Alabama---Kentucky ",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/RMZOEN",
+        "title": "Maxmind IP Geolocation Archival Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/SBF7DP",
+        "title": "Rajasthan GP Delimitation",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/SMEBXA",
+        "title": "Michigan Spending Data (2011--2017)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/TH0CG8",
+        "title": "AZ Spending Data 2009--2016",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/TJZUYL",
+        "title": "ClinicalTrials.Gov CSV (from XML)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/TTQZRL",
+        "title": "Federal Spending",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/UBIG3F",
+        "title": "Florida Voter Registration Data (2017 and 2022)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/UL7NYU",
+        "title": "Ookla Netindex Data on Internet Speed",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/UPJDE1",
+        "title": "MSNBC Transcripts: 2003--2022",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/VIV4TS",
+        "title": "YouGov Pulse Data for 1200 people for June 2022",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/VVENE1",
+        "title": "India Real Estate Listing Data 2026",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/VZ8DB3",
+        "title": "Not News: Provision of Apolitical News in British News Media",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/W1YJZQ",
+        "title": "Replication Data for: The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/WZGJBM",
+        "title": "naampy",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/XMYGIE",
+        "title": "DC Voter Registration Data 2014",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/XUV6G2",
+        "title": "Georgia Voter Registration Data",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/XVT1W2",
+        "title": "Replication Data for: \"Revisiting a Natural Experiment: Do Legislators With Daughters Vote More Liberally on Women\u2019s Issues?\"",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/YHWCDC",
+        "title": "Piedomains: Predict the kind of content hosted by a domain using domain name and homepage text",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ZE88E5",
+        "title": "Cricket Match Data: Scraped HTML Files from ESPNCricInfo",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ZHF9WC",
+        "title": "MNREGA R1, R3, R5, and R6 Reports (2007---2023)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ZNAKK6",
+        "title": "Top News: Story URLs and Text from News Feeds of Major National News Sites (2022 to 03/2025)",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ZXMVTJ",
+        "title": "Instate: Predict the state from last name",
+        "note": ""
+      },
+      {
+        "source": "dataverse",
+        "id": "doi:10.7910/DVN/ZXTQ7V",
+        "title": "Shallalist Web Page Data",
+        "note": ""
+      },
+      {
+        "source": "huggingface",
+        "id": "soodoku/archive-news",
+        "title": "",
+        "note": ""
+      },
+      {
+        "source": "huggingface",
+        "id": "soodoku/local-reservations",
+        "title": "",
+        "note": ""
+      },
+      {
+        "source": "huggingface",
+        "id": "soodoku/pai",
+        "title": "",
+        "note": ""
+      },
+      {
+        "source": "zenodo",
+        "id": "21926099",
+        "title": "Stata command-to-package index: a machine-readable mapping from the distribution manifests of SSC, the Stata Journal and the STB",
+        "note": ""
+      },
+      {
+        "source": "zenodo",
+        "id": "21943908",
+        "title": "Validated use: per-package counts of software loaded by social science replication code",
+        "note": ""
+      },
+      {
+        "source": "zenodo",
+        "id": "22772026",
+        "title": "Gram Sabha participation reports from gpdp.nic.in",
+        "note": ""
+      },
+      {
+        "source": "zenodo",
+        "id": "22852473",
+        "title": "Bihar panchayat election 2016: archived results-form pages and a validated release",
+        "note": ""
+      },
+      {
+        "source": "zenodo",
+        "id": "23092131",
+        "title": "Bihar panchayat elections: seats, reservations, candidates and winners (2011, 2016 and 2021 term)",
+        "note": ""
+      }
+    ],
+    "rejected": [
+      {
+        "source": "dataverse",
+        "id": "doi:10.25940/ROPER-31117966",
+        "why": "harvested"
+      }
+    ]
+  },
+  "manifest_sha256": "9e4142c0a7baeb81f2d258eb4fefbf878bc48bcb6147c295da903a911d95c5aa"
+}

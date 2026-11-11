@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "data-tally"
+version = "0.1.0"
+description = "Tally dataset downloads across Dataverse, Zenodo, and Hugging Face"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "Gaurav Sood", email = "contact@gsood.com"}]
+keywords = ["dataverse", "zenodo", "huggingface", "datasets", "downloads"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/gojiplus/data-tally"
+Repository = "https://github.com/gojiplus/data-tally"
+Issues = "https://github.com/gojiplus/data-tally/issues"
+
+[project.scripts]
+data-tally = "data_tally.cli:main"
+data-tally-refresh = "data_tally.refresh:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "black>=26", "isort>=7", "flake8>=7", "build>=1"]
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
