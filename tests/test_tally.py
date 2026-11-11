@@ -15,7 +15,7 @@ from data_tally.core import (
     load_datasets,
     parse_count,
 )
-from data_tally.discovery import discover, manifest_text, read_config
+from data_tally.discovery import candidate, discover, manifest_text, read_config
 
 DV = Dataset("dataverse", "doi:10.7910/DVN/AAAAAA", "Rolls | parsed")
 ZN = Dataset("zenodo", "111", "Bihar")
@@ -216,6 +216,32 @@ def test_discovery_adds_only_verified_new_datasets():
         "444": "creator",
         "other/x": "owner",
     }
+
+
+@pytest.mark.parametrize("char", ["\x7f", "\x00", "\n", '"', "\\", "\u2028"])
+def test_manifest_survives_awkward_characters(tmp_path, char):
+    dataset = Dataset("zenodo", "1", f"a{char}b", f"note{char}")
+    path = write(tmp_path / "d.toml", manifest_text([dataset]))
+    assert load_datasets(path) == [dataset]
+
+
+def test_candidate_cleans_titles_and_refuses_bad_ids():
+    assert candidate("zenodo", "12", "a\x7fb\n  c").title == "a b c"
+    assert candidate("zenodo", "12", None).title == ""
+    assert candidate("dataverse", "doi:10.7910/DVN/A B") is None
+    assert candidate("huggingface", "soodoku/x\ny") is None
+    assert candidate("zenodo", 12) is None
+
+
+def test_discovery_rejects_ids_the_manifest_would_refuse(tmp_path):
+    pages = search_pages()
+    pages["huggingface.co/api/datasets?"] = [{"id": "soodoku/bad id"}]
+    datasets, report = discover([DV], CONFIG, FakeClient(pages=pages))
+    assert {"source": "huggingface", "id": "soodoku/bad id", "why": "invalid id"} in (
+        report["rejected"]
+    )
+    path = write(tmp_path / "d.toml", manifest_text(datasets))
+    assert load_datasets(path) == datasets
 
 
 def test_discovery_follows_dataverse_pagination():

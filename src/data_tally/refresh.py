@@ -45,9 +45,15 @@ def main(argv=None) -> int:
         parser.error(str(exc))
     shutil.copyfile(args.config, snapshot / "discovery.toml")
     try:
-        datasets, discovery = discover(
+        found, discovery = discover(
             datasets, config, Client(snapshot / "discovery-raw")
         )
+        # Never commit a manifest the next run could not read back.
+        draft = snapshot / "datasets.toml"
+        draft.write_text(manifest_text(found), encoding="utf-8")
+        if load_datasets(draft) != found:
+            raise ValueError("Discovered manifest does not round-trip")
+        datasets = found
     except (FetchError, ValueError, KeyError, TypeError, AttributeError) as exc:
         discovery = {"complete": False, "error": str(exc), "added": []}
     manifest = manifest_text(datasets)

@@ -3,12 +3,20 @@
 from __future__ import annotations
 
 import json
+import re
 import tomllib
 from dataclasses import asdict
 from pathlib import Path
 from urllib.parse import urlencode
 
-from data_tally.core import DATAVERSE, HUGGINGFACE, ZENODO, Dataset, sort_datasets
+from data_tally.core import (
+    DATAVERSE,
+    HUGGINGFACE,
+    ID_PATTERNS,
+    ZENODO,
+    Dataset,
+    sort_datasets,
+)
 
 KEYS = ("dataverse_authors", "zenodo_creators", "huggingface_authors")
 # Harvard's own DOI prefix. The search also returns records harvested from other
@@ -34,6 +42,29 @@ def read_config(path: Path) -> dict:
     return config
 
 
+def candidate(source: str, identifier: str, title: str = "") -> Dataset | None:
+    """Build an entry from remote text, which the depositor controls.
+
+    An id the manifest loader would refuse, or a control character in a title,
+    would otherwise be committed and break every later run.
+    """
+    if not isinstance(identifier, str) or not re.fullmatch(
+        ID_PATTERNS[source], identifier
+    ):
+        return None
+    title = title if isinstance(title, str) else ""
+    clean = "".join(ch if ch.isprintable() else " " for ch in title)
+    return Dataset(source, identifier, " ".join(clean.split()))
+
+
+def sift(found: list, rejected: list, source: str, identifier, title="") -> None:
+    dataset = candidate(source, identifier, title)
+    if dataset:
+        found.append(dataset)
+    else:
+        rejected.append({"source": source, "id": str(identifier), "why": "invalid id"})
+
+
 def dataverse_candidates(client, author: str) -> tuple[list[Dataset], list[dict]]:
     found, rejected, start = [], [], 0
     while True:
@@ -56,7 +87,7 @@ def dataverse_candidates(client, author: str) -> tuple[list[Dataset], list[dict]
             elif not pid.startswith(DATAVERSE_PREFIX):
                 rejected.append({"source": "dataverse", "id": pid, "why": "harvested"})
             else:
-                found.append(Dataset("dataverse", pid, item.get("name", "")))
+                sift(found, rejected, "dataverse", pid, item.get("name", ""))
         start += DATAVERSE_PAGE
         if not items or start >= data["data"]["total_count"]:
             return found, rejected
@@ -81,7 +112,7 @@ def zenodo_candidates(client, creator: str) -> tuple[list[Dataset], list[dict]]:
                     {"source": "zenodo", "id": concept, "why": "not a dataset"}
                 )
             else:
-                found.append(Dataset("zenodo", concept, metadata.get("title", "")))
+                sift(found, rejected, "zenodo", concept, metadata.get("title", ""))
         if not hits or page * ZENODO_PAGE >= data["hits"]["total"]:
             return found, rejected
         page += 1
@@ -99,7 +130,7 @@ def huggingface_candidates(client, author: str) -> tuple[list[Dataset], list[dic
         if item["id"].split("/")[0] != author:
             rejected.append({"source": "huggingface", "id": item["id"], "why": "owner"})
         else:
-            found.append(Dataset("huggingface", item["id"]))
+            sift(found, rejected, "huggingface", item["id"])
     return found, rejected
 
 
@@ -127,6 +158,12 @@ def discover(datasets: list[Dataset], config: dict, client) -> tuple[list, dict]
     return sort_datasets(datasets + added), report
 
 
+def toml_string(value: str) -> str:
+    # A JSON string is a valid TOML basic string, except that JSON leaves
+    # U+007F raw and TOML forbids it. Python 3.11 has no TOML writer.
+    return json.dumps(value, ensure_ascii=False).replace("\x7f", "\\u007f")
+
+
 def manifest_text(datasets: list[Dataset]) -> str:
     lines = [
         "# Curated entries plus datasets found by author search; see README.md.",
@@ -135,6 +172,5 @@ def manifest_text(datasets: list[Dataset]) -> str:
         lines += ["", "[[datasets]]"]
         for key, value in asdict(dataset).items():
             if value:
-                # A JSON string is a valid TOML basic string.
-                lines.append(f"{key} = {json.dumps(value, ensure_ascii=False)}")
+                lines.append(f"{key} = {toml_string(value)}")
     return "\n".join(lines) + "\n"
