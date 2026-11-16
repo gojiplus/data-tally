@@ -1,27 +1,27 @@
 {
-  "started_at": "2026-11-11T05:45:44.460072+00:00",
-  "finished_at": "2026-11-11T05:46:02.665701+00:00",
+  "started_at": "2026-11-16T18:35:37.070094+00:00",
+  "finished_at": "2026-11-16T18:36:07.453800+00:00",
   "complete": true,
-  "total_downloads": 121372,
-  "observed_downloads": 121372,
+  "total_downloads": 122463,
+  "observed_downloads": 122463,
   "subtotals": {
     "dataverse": {
       "datasets": 89,
       "counted": 89,
       "complete": true,
-      "observed_downloads": 118802
+      "observed_downloads": 119424
     },
     "zenodo": {
       "datasets": 5,
       "counted": 5,
       "complete": true,
-      "observed_downloads": 1550
+      "observed_downloads": 1658
     },
     "huggingface": {
       "datasets": 3,
       "counted": 3,
       "complete": true,
-      "observed_downloads": 1020
+      "observed_downloads": 1381
     }
   },
   "datasets": [
@@ -33,10 +33,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F0IUQO1",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F0IUQO1",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 412,
+      "downloads": 416,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:44.654358+00:00",
-      "response_sha256": "7d64c74130c22c4a6fbf0df6b802834fc0377b31dbd0f5f73fedddebf171a844"
+      "fetched_at": "2026-11-16T18:35:37.421235+00:00",
+      "response_sha256": "6cce9bcbd29cc085d261887978745df13522ef4fe2ce4a887b7042bcb02c798b"
     },
     {
       "source": "dataverse",
@@ -46,10 +46,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F0KTFDM",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F0KTFDM",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 846,
+      "downloads": 847,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:44.870722+00:00",
-      "response_sha256": "c284cf4390ff3bae412cda7332043415d593c4ccce79c861731dec9393d32e79"
+      "fetched_at": "2026-11-16T18:35:37.737017+00:00",
+      "response_sha256": "10c5327df92cd1a7b69d42ae263e9db4496b94acec01f8500ee44a0cb406f8bf"
     },
     {
       "source": "dataverse",
@@ -61,7 +61,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 79,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:45.026726+00:00",
+      "fetched_at": "2026-11-16T18:35:38.061278+00:00",
       "response_sha256": "0db67d5a511e0378e77de02462a5bd3f530f1e8c0d8c8a9a426c27abf614404e"
     },
     {
@@ -74,7 +74,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 73,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:45.225779+00:00",
+      "fetched_at": "2026-11-16T18:35:38.327947+00:00",
       "response_sha256": "24efc073a7980cc9ccbc6a90a0efa6b44a0bc80653f15e228f1866349c0d9eb5"
     },
     {
@@ -87,7 +87,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 43,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:45.439728+00:00",
+      "fetched_at": "2026-11-16T18:35:38.554839+00:00",
       "response_sha256": "ceba2ecdeca0485f0c06ae93b557dc65f512b3c9bb0c5652010f4bc01df1d0df"
     },
     {
@@ -100,7 +100,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 16,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:45.573012+00:00",
+      "fetched_at": "2026-11-16T18:35:38.771895+00:00",
       "response_sha256": "dc07fd8b6bab393a863ec6b087c671b3381e5c799fc82f6757f94bd8bb6a5aa2"
     },
     {
@@ -111,10 +111,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F4JXJWI",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F4JXJWI",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 1255,
+      "downloads": 1274,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:45.800036+00:00",
-      "response_sha256": "b0bc53b74e9552cb0da320d1168300bfb7884ee614b1c0b5bc3a6a2940cdcdfa"
+      "fetched_at": "2026-11-16T18:35:39.095780+00:00",
+      "response_sha256": "fb0b7973cc6cc0e2782fb8150dd58539c8051159e090065ecb4f3a24c6bf340f"
     },
     {
       "source": "dataverse",
@@ -126,7 +126,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 38,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:45.927957+00:00",
+      "fetched_at": "2026-11-16T18:35:39.321547+00:00",
       "response_sha256": "38632066a3db3b3a85c72d6f9b253877eb4fe9933aa08907951051de6e3ac47a"
     },
     {
@@ -137,10 +137,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F6YPB5C",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F6YPB5C",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 240,
+      "downloads": 246,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.059553+00:00",
-      "response_sha256": "79a4a71edace97e97f3cee83f62472a4c25bb31b4c78427ebad6166ff1441523"
+      "fetched_at": "2026-11-16T18:35:39.587775+00:00",
+      "response_sha256": "447ccbf4ac9815521a54f8a38f866575602566eb0371eacbe2130baa842818ff"
     },
     {
       "source": "dataverse",
@@ -152,7 +152,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 250,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.247605+00:00",
+      "fetched_at": "2026-11-16T18:35:39.911771+00:00",
       "response_sha256": "912139ed2124fabe82100a8d1484422b9627251299c06131e306969825c9a5a6"
     },
     {
@@ -163,10 +163,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2F9KX752",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2F9KX752",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 170,
+      "downloads": 171,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.367457+00:00",
-      "response_sha256": "ea49b94ec1fa8a6f20130b8fa110c63920d848ea3759687cd0426325d3848760"
+      "fetched_at": "2026-11-16T18:35:40.175452+00:00",
+      "response_sha256": "a850d722e6764646d8a5be5aaa5886622e17a929c2b1ce45aacb69f86edaedf9"
     },
     {
       "source": "dataverse",
@@ -176,10 +176,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FBFHA9V",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBFHA9V",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 608,
+      "downloads": 609,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.513267+00:00",
-      "response_sha256": "5567e70e1378c206bff80b2036ecab0fe38e9a850f58bba1b3988a16153fe803"
+      "fetched_at": "2026-11-16T18:35:40.482883+00:00",
+      "response_sha256": "e04867172d89a26c2c648f62f34a7f4147f70e6c58dae574af3e38b0d25a3b60"
     },
     {
       "source": "dataverse",
@@ -191,7 +191,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 71,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.642346+00:00",
+      "fetched_at": "2026-11-16T18:35:40.745350+00:00",
       "response_sha256": "6490101602a47d6658f9b35ae877f7e93d7d5f75e93d471b3b0b866d15a0f5ef"
     },
     {
@@ -202,10 +202,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FBP2JXU",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FBP2JXU",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 133,
+      "downloads": 144,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.768211+00:00",
-      "response_sha256": "abea17678c5e4498ff9848bb5eada41011fc557c9c40f2cb8664c5e31fd4fd5e"
+      "fetched_at": "2026-11-16T18:35:40.970386+00:00",
+      "response_sha256": "126cc2a97e8f42d8b2d4d7767dfa5172ef4ecf8468382942947599e9a1ec6ce3"
     },
     {
       "source": "dataverse",
@@ -217,7 +217,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 91,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:46.907017+00:00",
+      "fetched_at": "2026-11-16T18:35:41.246953+00:00",
       "response_sha256": "238033ed23e8c24ce228d1cf51d1893dd6aa7867df82a5719f4d1a3883839e16"
     },
     {
@@ -230,7 +230,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 19,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:47.090892+00:00",
+      "fetched_at": "2026-11-16T18:35:41.546888+00:00",
       "response_sha256": "94b47026183e9b75e62eb91f9abfc19c04a07764768731d7cf41ef4d53b2d8fd"
     },
     {
@@ -241,10 +241,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FCLMQ8E",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCLMQ8E",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 3238,
+      "downloads": 3270,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:47.217498+00:00",
-      "response_sha256": "8835f027c045ddf750cab589e0a4ec49aebe3e72705832fdb33ff38cd566bb09"
+      "fetched_at": "2026-11-16T18:35:41.843637+00:00",
+      "response_sha256": "4e2c497f5974d05f525b7ac14e3592a645a6158bf7eb02a1059521167fa51752"
     },
     {
       "source": "dataverse",
@@ -256,7 +256,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 73,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:47.391929+00:00",
+      "fetched_at": "2026-11-16T18:35:42.068899+00:00",
       "response_sha256": "8b5c0d8a4013a3516341b701fbdf68ca78a5263582575ffef737af1e34be3e69"
     },
     {
@@ -267,10 +267,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FD7G1LO",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FD7G1LO",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 796,
+      "downloads": 799,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:47.556093+00:00",
-      "response_sha256": "0a0710d4a9057763c0ad11d723ec6ac255ca06fbcf5f4a5332cbfdf32156a959"
+      "fetched_at": "2026-11-16T18:35:42.337257+00:00",
+      "response_sha256": "676706888f427657d6c9765459044a71290260f12e0ca7fcdb60e7842e192e7b"
     },
     {
       "source": "dataverse",
@@ -280,10 +280,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FDXSNFA",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FDXSNFA",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 385,
+      "downloads": 386,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:47.684273+00:00",
-      "response_sha256": "2058a4c85c39820d9acb8a59f240476d192636ecf6654d52be92f593fb5d9c1f"
+      "fetched_at": "2026-11-16T18:35:42.583506+00:00",
+      "response_sha256": "6a022b0f48d887008661bedd783a0c892a369fed53c3fd25a679428d63ad2741"
     },
     {
       "source": "dataverse",
@@ -293,10 +293,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FE0ZFAJ",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FE0ZFAJ",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 811,
+      "downloads": 813,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:47.889076+00:00",
-      "response_sha256": "95a668c397e8e1eac524b32536b8d380f8c0fbc91d8992c51ce88f8f496e3fd8"
+      "fetched_at": "2026-11-16T18:35:42.833918+00:00",
+      "response_sha256": "be1b259ac4995f26110545a3d5566d9976aa55be304d829e69f89cde9fddc88c"
     },
     {
       "source": "dataverse",
@@ -308,7 +308,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 441,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.020780+00:00",
+      "fetched_at": "2026-11-16T18:35:43.078972+00:00",
       "response_sha256": "d52edddd14e935e895c890fea5d453b1bd792d65ba63f520ee9794b8feddb79d"
     },
     {
@@ -321,7 +321,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 44,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.152695+00:00",
+      "fetched_at": "2026-11-16T18:35:43.299296+00:00",
       "response_sha256": "5dbcf838f096f41e472bf035800fa450470a9ffe1cf8f6953dc5671e21b83ad0"
     },
     {
@@ -332,10 +332,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FFUC2AH",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFUC2AH",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 145,
+      "downloads": 148,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.321805+00:00",
-      "response_sha256": "c81e70137b79d099141837811688fae85376f8da18d70e8dfe0cc0c53ee2dd1c"
+      "fetched_at": "2026-11-16T18:35:43.547299+00:00",
+      "response_sha256": "e56ed05c769f67803dacb61aaa402504fd88e382379f7a253cedde4307a5b198"
     },
     {
       "source": "dataverse",
@@ -347,7 +347,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 314,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.524859+00:00",
+      "fetched_at": "2026-11-16T18:35:43.781576+00:00",
       "response_sha256": "908dc9e428c4af561ad736b1d549f2b3cd10b82af495fb876becf162867096fe"
     },
     {
@@ -360,7 +360,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 657,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.649284+00:00",
+      "fetched_at": "2026-11-16T18:35:44.017833+00:00",
       "response_sha256": "7dc9720551635e050ebbfdb3f2d2600bdb2196a73460813a7393ba08cc471fd6"
     },
     {
@@ -373,7 +373,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 23,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.769801+00:00",
+      "fetched_at": "2026-11-16T18:35:44.244092+00:00",
       "response_sha256": "5fe7bbd9f63349180ed5bbfa670eb1b0bcffad7d0c85fa8df11c35e7d8307cfe"
     },
     {
@@ -384,10 +384,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGTSTEY",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGTSTEY",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 279,
+      "downloads": 297,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:48.910474+00:00",
-      "response_sha256": "0edb8ac732c728ffd0eb4411847e5b55836aac739b30ffeef55fbb19685b53e8"
+      "fetched_at": "2026-11-16T18:35:44.465579+00:00",
+      "response_sha256": "5a4b9a9aed14016b59334102632fed7c10cf3fa3aee1598bb3688ddc68881e38"
     },
     {
       "source": "dataverse",
@@ -397,10 +397,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FGYPDF3",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FGYPDF3",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 11,
+      "downloads": 17,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.033312+00:00",
-      "response_sha256": "e16a79475f9c9a685fe554a643d4a87d0834c12af3cd001747312ac0e8fb3c91"
+      "fetched_at": "2026-11-16T18:35:44.693098+00:00",
+      "response_sha256": "56e0196faa8a3fac146bf6c2d9c081db8813eea85845d629e15eea38e36ae775"
     },
     {
       "source": "dataverse",
@@ -412,7 +412,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 57,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.182514+00:00",
+      "fetched_at": "2026-11-16T18:35:44.922839+00:00",
       "response_sha256": "0cfab80536749be7ce7e7c5cdfaf83b6632b979016da997f3a9b1373b7bc8fa3"
     },
     {
@@ -425,7 +425,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 48,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.306733+00:00",
+      "fetched_at": "2026-11-16T18:35:45.153422+00:00",
       "response_sha256": "94616c8bc7b1da24b470a0c79972525e91fcff261de874df242d1b35e3575dcd"
     },
     {
@@ -436,10 +436,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FHZHVCU",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FHZHVCU",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 120,
+      "downloads": 122,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.437684+00:00",
-      "response_sha256": "44d8481cfe2f048152f50d65bd61df8d911698d1faf1d2818ec3ece50ea16d38"
+      "fetched_at": "2026-11-16T18:35:45.403348+00:00",
+      "response_sha256": "7e424e30078e2064973086653dfdde19831c9cc88d8e262ca40e95ac783897e3"
     },
     {
       "source": "dataverse",
@@ -449,10 +449,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FI4ZGIN",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FI4ZGIN",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 160,
+      "downloads": 162,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.579683+00:00",
-      "response_sha256": "b1b3bfb203cabf2416aa8da67f14868e45cdaade46a9defd3076dd07b853ac9d"
+      "fetched_at": "2026-11-16T18:35:45.632905+00:00",
+      "response_sha256": "a0ab1e4fe3a633d12fec92a07ebe264977d2c66d95f3f55c8f50ca030c7309ba"
     },
     {
       "source": "dataverse",
@@ -464,7 +464,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 28,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.713189+00:00",
+      "fetched_at": "2026-11-16T18:35:45.852900+00:00",
       "response_sha256": "c76cf918191f020876c5c40cc270f3114271fe3b59877eab504397dbc570e188"
     },
     {
@@ -477,7 +477,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 880,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.847794+00:00",
+      "fetched_at": "2026-11-16T18:35:46.102800+00:00",
       "response_sha256": "f8b4c3a369dfb7ee3964efad96691298042b32ed23789052d3fc8322f8f3398a"
     },
     {
@@ -490,7 +490,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 28468,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:49.975118+00:00",
+      "fetched_at": "2026-11-16T18:35:46.345620+00:00",
       "response_sha256": "5af50ea5956aa4b9274eeaea590dea4a755695dc5895830259c7ac9e231a425b"
     },
     {
@@ -503,7 +503,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 70,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.113825+00:00",
+      "fetched_at": "2026-11-16T18:35:46.569755+00:00",
       "response_sha256": "1bffad7019f84b204a70313831c0133930e0c34a2ee3bb42541056c40814a2cc"
     },
     {
@@ -516,7 +516,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 61,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.255090+00:00",
+      "fetched_at": "2026-11-16T18:35:46.796219+00:00",
       "response_sha256": "feddf7870d599b0625b4dd98d0210c177b9da6f41903ee0aadb6b4a66caedb2a"
     },
     {
@@ -529,7 +529,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 21,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.405301+00:00",
+      "fetched_at": "2026-11-16T18:35:47.022157+00:00",
       "response_sha256": "29120bd274e4ecdf129ceb701335eaa3ab89939287f6036d40e8c40d7c1f54b5"
     },
     {
@@ -540,10 +540,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKA3TS8",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKA3TS8",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 278,
+      "downloads": 281,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.546342+00:00",
-      "response_sha256": "1982a3f3a7ae8aa84946d3e87a8f368c7ab1724391ed6b05726e8270a84eb59c"
+      "fetched_at": "2026-11-16T18:35:47.245524+00:00",
+      "response_sha256": "93b4efaca4928fc643378e91551283e8a1c826976abb22fcde6910de0974b749"
     },
     {
       "source": "dataverse",
@@ -553,10 +553,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKAIZ1B",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKAIZ1B",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 196,
+      "downloads": 203,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.684603+00:00",
-      "response_sha256": "9ba8b18cb27b49cf33eb7428126edcec87fdacef5e1041773a35c332d9736c5d"
+      "fetched_at": "2026-11-16T18:35:47.475684+00:00",
+      "response_sha256": "7a0423224264f52d00684e9ea3d3f43ca380034f2456642dcdb3af3896112902"
     },
     {
       "source": "dataverse",
@@ -566,10 +566,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKF1LAK",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKF1LAK",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 1223,
+      "downloads": 1322,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.837472+00:00",
-      "response_sha256": "d6d1007ac1a3af4e9e39e0a271a531c71540e5bf70a39040513b21cfecc1c677"
+      "fetched_at": "2026-11-16T18:35:47.815940+00:00",
+      "response_sha256": "4a4450a7de13edfe347524bafde44b47648a091670c727870e4c42565c6786fa"
     },
     {
       "source": "dataverse",
@@ -579,10 +579,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FKNN0GL",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKNN0GL",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 42,
+      "downloads": 43,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:50.966125+00:00",
-      "response_sha256": "f61b6a4d293fa2893f65962450f689216a2ec8d83be17c97ab7116a3fe37811d"
+      "fetched_at": "2026-11-16T18:35:48.104656+00:00",
+      "response_sha256": "3e6875c4cfa866663574b9fa860ae464b2d1d3b7907c289d48b04cd0fb2a0a76"
     },
     {
       "source": "dataverse",
@@ -594,7 +594,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 105,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.103643+00:00",
+      "fetched_at": "2026-11-16T18:35:48.325210+00:00",
       "response_sha256": "a1c02b2680099a97c7d495809eaf4b1ae1137b565f00bc56ded618325245a121"
     },
     {
@@ -607,7 +607,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 646,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.237034+00:00",
+      "fetched_at": "2026-11-16T18:35:48.584399+00:00",
       "response_sha256": "aeb5a3fbdd5e9ec12860e8d3904f542530a0558aa5ec0ab6656734783a23b204"
     },
     {
@@ -620,7 +620,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 8922,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.413989+00:00",
+      "fetched_at": "2026-11-16T18:35:48.831746+00:00",
       "response_sha256": "bc0fb8bed87b3845cbc01fffd30a3eeef5179b8122cb9c8888a57f109001b2e7"
     },
     {
@@ -631,10 +631,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FM5K7VR",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FM5K7VR",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 10914,
+      "downloads": 10916,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.548155+00:00",
-      "response_sha256": "6014550b84c2c415a87435818781931ad87db6e31df2aa672fadfbd244420209"
+      "fetched_at": "2026-11-16T18:35:49.112944+00:00",
+      "response_sha256": "7cb1231f179cb7225f7324162dba09fc4babc6a952455240081adeff82f875f2"
     },
     {
       "source": "dataverse",
@@ -644,10 +644,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FMNDSVD",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FMNDSVD",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 3157,
+      "downloads": 3158,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.694749+00:00",
-      "response_sha256": "79e83367555fe7553492e6a21022117c2714aa1236b9237f0e7d36a35374b42b"
+      "fetched_at": "2026-11-16T18:35:49.358909+00:00",
+      "response_sha256": "967e8303f6a506e90229c6c13f4c8997ed0a13776f7294a91dc1aa3872934a5e"
     },
     {
       "source": "dataverse",
@@ -659,7 +659,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 9,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.822365+00:00",
+      "fetched_at": "2026-11-16T18:35:49.586577+00:00",
       "response_sha256": "8723cbea07dbf1163ee2cb5bd5bca53444e5c01383a3c0d1409c09e71d8d71f2"
     },
     {
@@ -672,7 +672,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 3317,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:51.955964+00:00",
+      "fetched_at": "2026-11-16T18:35:49.826303+00:00",
       "response_sha256": "4af5806835e3dcbcbac237cba25fac62c6cccefb1918053d93cad0058ed10111"
     },
     {
@@ -685,7 +685,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 34,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.102169+00:00",
+      "fetched_at": "2026-11-16T18:35:50.091386+00:00",
       "response_sha256": "eee587977711c8d00e0d7c7973e0455fbf9c4a1adbbfcdaf753f4dd27aa3fbfd"
     },
     {
@@ -698,7 +698,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 28,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.224368+00:00",
+      "fetched_at": "2026-11-16T18:35:50.324018+00:00",
       "response_sha256": "20bff571b2da4033dad74e577c6befbac58496a6741d1b617510f794b3fe1b4c"
     },
     {
@@ -709,10 +709,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNKHAKM",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNKHAKM",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 2069,
+      "downloads": 2070,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.344882+00:00",
-      "response_sha256": "1a38884be81fb294b3c7e31128677e486e9eed99b6dfcbfb372a179989c5b7bc"
+      "fetched_at": "2026-11-16T18:35:50.589393+00:00",
+      "response_sha256": "2cbcc104371924d35648d997aa994ef557998971c41dccc7fb38562d532ea18f"
     },
     {
       "source": "dataverse",
@@ -722,10 +722,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FNRY5OP",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FNRY5OP",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 82,
+      "downloads": 83,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.478952+00:00",
-      "response_sha256": "778654c252d50ae37f796694203c4186764f5d7597e5c2e7183f7861c1b4a159"
+      "fetched_at": "2026-11-16T18:35:50.821810+00:00",
+      "response_sha256": "ffc73b74cebf16ddf4ae205919cc8b9ed4564ab043d183415b8c636f7fb679b6"
     },
     {
       "source": "dataverse",
@@ -737,7 +737,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 4,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.621841+00:00",
+      "fetched_at": "2026-11-16T18:35:51.045697+00:00",
       "response_sha256": "708530fb8f4f34263c1e960d4753b4aaab1ee19b4055ddfe215d6aaddc384e8c"
     },
     {
@@ -750,7 +750,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 123,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.749581+00:00",
+      "fetched_at": "2026-11-16T18:35:51.287937+00:00",
       "response_sha256": "04ed76d1d8975c8dd97735929d6f7b03d5afe7b1dd496e448415370fcaf17521"
     },
     {
@@ -763,7 +763,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 267,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:52.872700+00:00",
+      "fetched_at": "2026-11-16T18:35:51.536582+00:00",
       "response_sha256": "ccb4191ed84e29579c4db44ba5ab868122e8e7b4ebf8b28e0da8b7fea4d79ea3"
     },
     {
@@ -776,7 +776,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 74,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.015152+00:00",
+      "fetched_at": "2026-11-16T18:35:51.756038+00:00",
       "response_sha256": "a46cc0300318cddbf7a47ccc898678ac74fafa402d5ef0118a680675e18a5020"
     },
     {
@@ -787,10 +787,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FOAJJHI",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOAJJHI",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 3750,
+      "downloads": 3808,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.156497+00:00",
-      "response_sha256": "c705fda480fd1e484e4e294ed3d8e6cff8912256d4c823493b753c7002db514c"
+      "fetched_at": "2026-11-16T18:35:52.137829+00:00",
+      "response_sha256": "635ac04f12b352a4a669fd5430feb80826ee3cfb58e62b99b4966c329ac9d698"
     },
     {
       "source": "dataverse",
@@ -802,7 +802,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 525,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.287189+00:00",
+      "fetched_at": "2026-11-16T18:35:52.484215+00:00",
       "response_sha256": "021eef7a98dd60bc467832080a174395b031a6fba10043bb9444c0958fb98c8c"
     },
     {
@@ -813,10 +813,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FOMV93V",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FOMV93V",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 6170,
+      "downloads": 6173,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.426938+00:00",
-      "response_sha256": "48dd8285c7fdc919a8cb23bc1fd6d3c5c1937b4a051f03696a43c76efe875a40"
+      "fetched_at": "2026-11-16T18:35:52.721391+00:00",
+      "response_sha256": "6a946f6badbdd1022bcfa8fa6ec3f236840c85a1f23a9d581fd8203f196dbeb5"
     },
     {
       "source": "dataverse",
@@ -828,7 +828,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 158,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.573223+00:00",
+      "fetched_at": "2026-11-16T18:35:52.971314+00:00",
       "response_sha256": "7932cec869f065180ccd0fea4830e75d0d58eec87883701a1138432e23e5b004"
     },
     {
@@ -841,7 +841,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 27,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.715307+00:00",
+      "fetched_at": "2026-11-16T18:35:53.198958+00:00",
       "response_sha256": "d61b50cfd18ef641eb97e5e5bb69dbb1426fafd3d4d8a631465fb87de8a0b146"
     },
     {
@@ -852,10 +852,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FQ2KIES",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQ2KIES",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 703,
+      "downloads": 705,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.838227+00:00",
-      "response_sha256": "7c194ad6b894a4e44a051f86c06f8b6e37e5b3b7bd86aa9fc467856437329d5d"
+      "fetched_at": "2026-11-16T18:35:53.438680+00:00",
+      "response_sha256": "610cc3bd49dc291a940f285e5f09daae0c3d2dbe9ab72fad3316ce920d268e3d"
     },
     {
       "source": "dataverse",
@@ -865,10 +865,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FQLRNAL",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQLRNAL",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 2793,
+      "downloads": 2797,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:53.977517+00:00",
-      "response_sha256": "4fbb064e56273db69ce273fc9e9723830fc2dc1c7babe2e347f84ab296ba41bc"
+      "fetched_at": "2026-11-16T18:35:53.683069+00:00",
+      "response_sha256": "2a0c322c6758b4fefbca5017c60e87ec3bfee1b8f3617b1eb582d42bcf9f72c6"
     },
     {
       "source": "dataverse",
@@ -880,7 +880,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 1509,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.102968+00:00",
+      "fetched_at": "2026-11-16T18:35:53.937091+00:00",
       "response_sha256": "bc7ad44a6e339c1ee7a191321d391a2487dffd52fd8f107a8f0d99fee5055fb2"
     },
     {
@@ -893,7 +893,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 315,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.234552+00:00",
+      "fetched_at": "2026-11-16T18:35:54.180374+00:00",
       "response_sha256": "ad2c94939a860614c5e582b8174393652830137ff25f70bf2f5c64e2e692137a"
     },
     {
@@ -904,10 +904,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FSBF7DP",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSBF7DP",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 262,
+      "downloads": 263,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.369539+00:00",
-      "response_sha256": "451c6a9f27b1e260f1a2ef567db8d3702f046db701bf1a95b4553511fa0b976c"
+      "fetched_at": "2026-11-16T18:35:54.423533+00:00",
+      "response_sha256": "025abf9d9ad460773fcb82baf3456f12017d9a2f43f2105be42235c12fd1cbec"
     },
     {
       "source": "dataverse",
@@ -917,10 +917,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FSMEBXA",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSMEBXA",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 87,
+      "downloads": 94,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.512363+00:00",
-      "response_sha256": "0030a754caf764a01473eed0a93701d2959dc140f5941dea1b5cb5adcf4fd668"
+      "fetched_at": "2026-11-16T18:35:54.653011+00:00",
+      "response_sha256": "17545d08628eb5f7012207608ab9404efe4ca04ee3b531925253e6c4dc87e266"
     },
     {
       "source": "dataverse",
@@ -932,7 +932,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 105,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.652076+00:00",
+      "fetched_at": "2026-11-16T18:35:54.886212+00:00",
       "response_sha256": "b67c421e1264f6e4a97e12ab348950c5a7f31ee2b62652e8c33c6425c44c593a"
     },
     {
@@ -943,10 +943,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FTJZUYL",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTJZUYL",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 335,
+      "downloads": 348,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.772890+00:00",
-      "response_sha256": "03fe52debcdd001d90a4bf3b077c3e88cb05b456a382ae530485c7d9d97ba20f"
+      "fetched_at": "2026-11-16T18:35:55.115882+00:00",
+      "response_sha256": "8b4da6598870d68ef8585ee44dc1f6a885d711d33771f9e4c499e0450dd0f7ae"
     },
     {
       "source": "dataverse",
@@ -956,10 +956,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FTTQZRL",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FTTQZRL",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 332,
+      "downloads": 333,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:54.900530+00:00",
-      "response_sha256": "305a1df69147881d83fcf2c9518add3ff7f23fce229d6308c25ff8804573c577"
+      "fetched_at": "2026-11-16T18:35:55.356262+00:00",
+      "response_sha256": "217c04d283110ee8d802524ad28526d65b7a4175f0d84ec359c158406a009001"
     },
     {
       "source": "dataverse",
@@ -971,7 +971,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 1131,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.037806+00:00",
+      "fetched_at": "2026-11-16T18:35:55.591097+00:00",
       "response_sha256": "b10fc5cb2672a46193cd89f5e311ea3995aa56a9702fa6d1236d19425a06b410"
     },
     {
@@ -984,7 +984,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 956,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.177693+00:00",
+      "fetched_at": "2026-11-16T18:35:55.827602+00:00",
       "response_sha256": "ddb1c0606b3a94e60336915914dcbeafe6517c1e00a26dde24ea815935e43ab4"
     },
     {
@@ -997,7 +997,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 475,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.299268+00:00",
+      "fetched_at": "2026-11-16T18:35:56.068874+00:00",
       "response_sha256": "6b3121203e010603b741313ad2d2e1e2922e8c8c659fb5b923d7754d8a177745"
     },
     {
@@ -1010,7 +1010,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 291,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.445082+00:00",
+      "fetched_at": "2026-11-16T18:35:56.305784+00:00",
       "response_sha256": "2390dce1254235feb6715f94957040302f3851cac25a13ecf4a42b3476026afd"
     },
     {
@@ -1023,7 +1023,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 29,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.584593+00:00",
+      "fetched_at": "2026-11-16T18:35:56.538049+00:00",
       "response_sha256": "527bbb80ebba551d456cc5746efa10119c776466106ba5f876e3c11841150e65"
     },
     {
@@ -1036,7 +1036,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 89,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.721573+00:00",
+      "fetched_at": "2026-11-16T18:35:56.771552+00:00",
       "response_sha256": "885145d194117d74abdbaf6fc88c0592ba318d0df65fa722f78b56449805a60b"
     },
     {
@@ -1047,10 +1047,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FW1YJZQ",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FW1YJZQ",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 7398,
+      "downloads": 7464,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.858467+00:00",
-      "response_sha256": "44e04207c2ddb479c704780afb3539d40d710f4eb177b655be480f8c71fad7a9"
+      "fetched_at": "2026-11-16T18:35:57.062779+00:00",
+      "response_sha256": "de67b5cef70531dc402cd8ccd796ca0c71f93ad0677f57e2754043d76aa03ac2"
     },
     {
       "source": "dataverse",
@@ -1060,10 +1060,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FWZGJBM",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FWZGJBM",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 3725,
+      "downloads": 3767,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:55.990835+00:00",
-      "response_sha256": "780ba2a7a155dbd8b7bcdedd656b2f6b29b4a978f971c4983ca555dbd574d61d"
+      "fetched_at": "2026-11-16T18:35:57.456584+00:00",
+      "response_sha256": "2351a8be6122c0878bf5496f765dc3563ba800e231642c045513232b8c399ac8"
     },
     {
       "source": "dataverse",
@@ -1073,10 +1073,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FXMYGIE",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FXMYGIE",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 64,
+      "downloads": 65,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.128816+00:00",
-      "response_sha256": "0fc44a65da790beb4b1862813792801e8ff782b1c8d0a05d3bfb0b427117a598"
+      "fetched_at": "2026-11-16T18:35:57.672263+00:00",
+      "response_sha256": "0a126e3be31ff313036eddf4d1690a67feee06ec2d0def92e4c3ba333c9dd1e7"
     },
     {
       "source": "dataverse",
@@ -1088,7 +1088,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 284,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.259109+00:00",
+      "fetched_at": "2026-11-16T18:35:57.919514+00:00",
       "response_sha256": "8e21f38864db77a4c984ad6eb32c1908465c8472d47d8cef01d8709be54a18b3"
     },
     {
@@ -1099,10 +1099,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FXVT1W2",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FXVT1W2",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 3021,
+      "downloads": 3110,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.392771+00:00",
-      "response_sha256": "55c4fe8aec4a3176d2183bee266d296eebcab71bf534a232fd50bde88683ca36"
+      "fetched_at": "2026-11-16T18:35:58.203005+00:00",
+      "response_sha256": "3364491629ea2a00a48059f3b5b9ffc69a7a7bba29c38af07d4e12d441076ef4"
     },
     {
       "source": "dataverse",
@@ -1112,10 +1112,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FYHWCDC",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FYHWCDC",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 1434,
+      "downloads": 1445,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.533265+00:00",
-      "response_sha256": "2eb22e446c4b04058c09f0e7820e3dde552be1363e14a2356f2681d58a34e770"
+      "fetched_at": "2026-11-16T18:35:58.483796+00:00",
+      "response_sha256": "9750cd94964782e0d531e5fa6a1531f932c238c681669cf58d43921099eb0fc7"
     },
     {
       "source": "dataverse",
@@ -1127,7 +1127,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 23,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.656003+00:00",
+      "fetched_at": "2026-11-16T18:35:58.712697+00:00",
       "response_sha256": "12b6ed7e8f028db621db365ac1dcddcd524d379cedc2e9979ffff7147ae03c93"
     },
     {
@@ -1138,10 +1138,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZHF9WC",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZHF9WC",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 7684,
+      "downloads": 7744,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.795868+00:00",
-      "response_sha256": "9469cbc01323c36b54b21a7dfff00365141882bddf27cbc1c813340d79eb89c7"
+      "fetched_at": "2026-11-16T18:35:59.056541+00:00",
+      "response_sha256": "07d3c5d837243ab2241301fa541cd8d2fc8c754c26435a510e1ededa676b6a54"
     },
     {
       "source": "dataverse",
@@ -1153,7 +1153,7 @@
       "coverage": "File downloads, all versions, including before Make Data Count",
       "downloads": 537,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:56.932203+00:00",
+      "fetched_at": "2026-11-16T18:35:59.302366+00:00",
       "response_sha256": "b3cde1eb734f9aacbc8b369ee3a10ee63a8827c01a7ba6dc608704b8738aeea3"
     },
     {
@@ -1164,10 +1164,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZXMVTJ",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZXMVTJ",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 300,
+      "downloads": 314,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:57.048937+00:00",
-      "response_sha256": "e8fe6e7fa863cd5418a08eb7ebfff1c7faa570f6e279f428d6fe7269c1ebd27d"
+      "fetched_at": "2026-11-16T18:35:59.557610+00:00",
+      "response_sha256": "c0292e46904022eb69e033632bb54dcd5534c99cfd7b31af4c0ac82ff2beada1"
     },
     {
       "source": "dataverse",
@@ -1177,10 +1177,10 @@
       "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FZXTQ7V",
       "page": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZXTQ7V",
       "coverage": "File downloads, all versions, including before Make Data Count",
-      "downloads": 1326,
+      "downloads": 1349,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:57.181427+00:00",
-      "response_sha256": "cfa8a2dc0cc9093a5d4f48bc46d966ac6505155ad56be2c3b906beea86ecdc45"
+      "fetched_at": "2026-11-16T18:35:59.810263+00:00",
+      "response_sha256": "c3d22d06b3dee484dcfe8728c2326d558cb84e1296108076f7fbc21769fd9be9"
     },
     {
       "source": "huggingface",
@@ -1190,10 +1190,10 @@
       "url": "https://huggingface.co/api/datasets/soodoku/archive-news?expand%5B%5D=downloadsAllTime",
       "page": "https://huggingface.co/datasets/soodoku/archive-news",
       "coverage": "All-time downloads; one per IP per 5-minute window",
-      "downloads": 354,
+      "downloads": 355,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:57.293197+00:00",
-      "response_sha256": "c0bfc7a706070a8b5bc65bf5923aad3e7747ce154761234e28920ac7e2bd4bf1"
+      "fetched_at": "2026-11-16T18:35:59.970306+00:00",
+      "response_sha256": "266da3e771898f45207d2be27c0ff849f672dba30e72b9ddd0b6e5d4ede64b1b"
     },
     {
       "source": "huggingface",
@@ -1203,10 +1203,10 @@
       "url": "https://huggingface.co/api/datasets/soodoku/local-reservations?expand%5B%5D=downloadsAllTime",
       "page": "https://huggingface.co/datasets/soodoku/local-reservations",
       "coverage": "All-time downloads; one per IP per 5-minute window",
-      "downloads": 298,
+      "downloads": 630,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:57.371546+00:00",
-      "response_sha256": "217bc02ac13a833372da029be13eb9b619f6f28f49bfb592182b68d234a442f8"
+      "fetched_at": "2026-11-16T18:36:00.118848+00:00",
+      "response_sha256": "f96d953e980b7144106f9cb925e5711f8a7fb35162b6fbbf7d666ffff8370cd2"
     },
     {
       "source": "huggingface",
@@ -1216,10 +1216,10 @@
       "url": "https://huggingface.co/api/datasets/soodoku/pai?expand%5B%5D=downloadsAllTime",
       "page": "https://huggingface.co/datasets/soodoku/pai",
       "coverage": "All-time downloads; one per IP per 5-minute window",
-      "downloads": 368,
+      "downloads": 396,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:57.457555+00:00",
-      "response_sha256": "e9535f17f36aa46036fdcd164f358c00b58442548cb4c20c54f638f1a288172d"
+      "fetched_at": "2026-11-16T18:36:00.270705+00:00",
+      "response_sha256": "fa65dc7df546eef5e1befd6a173c77168de605cc76bbdef31b2d289a6e6e3fba"
     },
     {
       "source": "zenodo",
@@ -1229,10 +1229,10 @@
       "url": "https://zenodo.org/api/records/21926099",
       "page": "https://zenodo.org/records/21926099",
       "coverage": "Downloads across all versions",
-      "downloads": 135,
+      "downloads": 143,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:58.305001+00:00",
-      "response_sha256": "546b4bbda43db00940e4112298a05c152acea06fa6ed97120dbc47f6d8bdea34"
+      "fetched_at": "2026-11-16T18:36:01.793497+00:00",
+      "response_sha256": "89402e61c1eab8932cf100b33cc5c75f8297534c9bf972a05f7bc36dc9d01ae0"
     },
     {
       "source": "zenodo",
@@ -1242,10 +1242,10 @@
       "url": "https://zenodo.org/api/records/21943908",
       "page": "https://zenodo.org/records/21943908",
       "coverage": "Downloads across all versions",
-      "downloads": 543,
+      "downloads": 553,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:45:59.405279+00:00",
-      "response_sha256": "69fdd10a2880fc0b333aeca1561dc003d38932141aa246ea0ef3791a730bc10b"
+      "fetched_at": "2026-11-16T18:36:03.380162+00:00",
+      "response_sha256": "2d101a1311ca0d554fd9a24d7291d291e10709541e22b2899e3d32ccf68fb63d"
     },
     {
       "source": "zenodo",
@@ -1255,10 +1255,10 @@
       "url": "https://zenodo.org/api/records/22772026",
       "page": "https://zenodo.org/records/22772026",
       "coverage": "Downloads across all versions",
-      "downloads": 321,
+      "downloads": 352,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:46:00.345181+00:00",
-      "response_sha256": "4c4e200f522eba576d3fd972a8cc2a79718786844b63f0c919a15f23f51289fa"
+      "fetched_at": "2026-11-16T18:36:04.881762+00:00",
+      "response_sha256": "72d8473de0806801cb84656b81e6a5436ff92dc224d2c84df7e28beb1c34c408"
     },
     {
       "source": "zenodo",
@@ -1268,10 +1268,10 @@
       "url": "https://zenodo.org/api/records/22852473",
       "page": "https://zenodo.org/records/22852473",
       "coverage": "Downloads across all versions",
-      "downloads": 443,
+      "downloads": 477,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:46:01.754798+00:00",
-      "response_sha256": "5c04ecd56915662ae9b154a9d747c9e57fd79c513cb2bd22d0c8b970873a9243"
+      "fetched_at": "2026-11-16T18:36:06.322259+00:00",
+      "response_sha256": "99092d867e324c4a0968bd1cc7c8c4a77b3c2302dd6a05c0c5698cc549313e00"
     },
     {
       "source": "zenodo",
@@ -1281,10 +1281,10 @@
       "url": "https://zenodo.org/api/records/23092131",
       "page": "https://zenodo.org/records/23092131",
       "coverage": "Downloads across all versions",
-      "downloads": 108,
+      "downloads": 133,
       "status": "ok",
-      "fetched_at": "2026-11-11T05:46:02.665240+00:00",
-      "response_sha256": "d0ce96e8a2d068861e9e7c3feacdfa0a78d3b06d4cb19e911e36bdb56d6fea28"
+      "fetched_at": "2026-11-16T18:36:07.453314+00:00",
+      "response_sha256": "3125dc2e6568fc735d841a3ca4c9d1e4144d8226702e8b4e7908b3b7aeab18c8"
     }
   ],
   "discovery": {

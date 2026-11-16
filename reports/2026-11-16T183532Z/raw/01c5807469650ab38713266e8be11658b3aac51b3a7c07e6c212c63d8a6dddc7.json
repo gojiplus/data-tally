@@ -1,0 +1,8 @@
+{
+  "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/download/count?includeMDC=true&persistentId=doi%3A10.7910%2FDVN%2FWZGJBM",
+  "fetched_at": "2026-11-16T18:35:57.456584+00:00",
+  "sha256": "2351a8be6122c0878bf5496f765dc3563ba800e231642c045513232b8c399ac8",
+  "content_type": "application/json;charset=UTF-8",
+  "server_date": "Mon, 16 Nov 2026 18:35:57 GMT",
+  "body": "{\"id\":4963283,\"downloadCount\":3767}"
+}

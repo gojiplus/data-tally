@@ -1,0 +1,8 @@
+{
+  "url": "https://huggingface.co/api/datasets/soodoku/local-reservations?expand%5B%5D=downloadsAllTime",
+  "fetched_at": "2026-11-16T18:36:00.118848+00:00",
+  "sha256": "f96d953e980b7144106f9cb925e5711f8a7fb35162b6fbbf7d666ffff8370cd2",
+  "content_type": "application/json; charset=utf-8",
+  "server_date": "Mon, 16 Nov 2026 18:36:00 GMT",
+  "body": "{\"_id\":\"6aa05a08b94bd090f0b8da61\",\"id\":\"soodoku/local-reservations\",\"downloadsAllTime\":630}"
+}
