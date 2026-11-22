@@ -9,7 +9,7 @@ description = "Tally dataset downloads across Dataverse, Zenodo, and Hugging Fac
 readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
-authors = [{name = "Gaurav Sood", email = "contact@gsood.com"}]
+authors = [{name = "Gaurav Sood"}]
 keywords = ["dataverse", "zenodo", "huggingface", "datasets", "downloads"]
 classifiers = [
   "Development Status :: 3 - Alpha",
